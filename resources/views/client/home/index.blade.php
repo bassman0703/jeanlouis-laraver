@@ -70,7 +70,7 @@
                 <div class="positionRel hpSlider">
                     <span
                         class="hrl 45CBCBC0C21322BA1321B41321B4CCCCCC194D434A49484FC346C24B4AC4464B19C3C21321B44AC1CB464248431321B4484F4F47C21E44C14F4E1ECB45431E42C14ACDC61E4A414FC3CB1E4D484B1E424F48484342CB464F493F4A2A222420221321B42A hpSlide positionRel">
-                        <a href="{{ url ('newsDetail') }}">
+                        <a href="/news/newsDetail">
                             <picture>
                                 <source media="(max-width: 640px)"
                                     srcset="img/20869997-0-20869997-2020-03-jld-website-maj-home-looks-header-1280x450-375x225-1.jpg">
@@ -91,7 +91,7 @@
                     </span>
                     <span
                         class="hrl 45CBCBC0C21322BA1321B41321B4CCCCCC194D434A49484FC346C24B4AC4464B19C3C21321B44AC1CB464248431321B444C146494C43C21ECB4A47431E424349CBC1431EC2CB4A4C431E444FC11EC2C0C146494C1EC2C34E4E43C11E212021203F4A2A222325211321B42A hpSlide positionRel">
-                        <a href="home-page.html">
+                        <a href="/news/newsDetail">
                             <picture>
                                 <source media="(max-width: 640px)"
                                     srcset="img/20870063-0-20870063-jld-ss2020-16-375x225-1.jpg">
@@ -112,7 +112,7 @@
                     </span>
                     <span
                         class="hrl 45CBCBC0C21322BA1321B41321B4CCCCCC194D434A49484FC346C24B4AC4464B19C3C21321B4454A46C11EC24A484F491321B4424FC349CBC1C61321B4C34946CB434B1EC2CB4ACB43C2 hpSlide positionRel">
-                        <a href="home-page.html">
+                        <a href="/news/newsDetail">
                             <picture>
                                 <source media="(max-width: 640px)"
                                     srcset="img/16345472-0-16345472-180420-03-467-375x225-1.jpg">
@@ -157,9 +157,9 @@
 
                             <div class="infoBlock">
                                 <div class="typeInfo">Spring-Summer collection</div>
-                                <a href="home-page.html" class="title">Looks from the Crazy about JLD collection</a>
+                                <a href="/news/newsDetail" class="title">Looks from the Crazy about JLD collection</a>
                             </div>
-                            <a href="home-page.html">
+                            <a href="/news/newsDetail">
                                 <picture>
                                     <source media="(max-width: 640px)"
                                         srcset="img/18412-discover-the-jean-louis-david-spring-sum-342x240-1.jpg">
@@ -202,7 +202,7 @@
                             data-tracking-label="Layers: for a touch of 90s style at JLD">
                             <div class="table">
                                 <div class="tableCell">
-                                    <a href="home-page.html">
+                                    <a href="/news/newsDetail">
                                         <div class="borderBlock">
                                             <picture>
                                                 <source media="(max-width: 640px)"
@@ -221,7 +221,7 @@
                                         Spring-Summer collection
 
                                     </div>
-                                    <a href="home-page.html" class="title">Layers: for a touch of 90s style at JLD</a>
+                                    <a href="/news/newsDetail" class="title">Layers: for a touch of 90s style at JLD</a>
 
                                     <p>Do you remember how layers were all the rage (almost) thirty years ago?
                                         Well, the cult layers trend from the 90s is well and truly back, but
@@ -235,7 +235,7 @@
                             data-tracking-label="The Contrast treatment: a JLD exclusive technique for gradual lightening">
                             <div class="table">
                                 <div class="tableCell">
-                                    <a href="home-page.html">
+                                    <a href="/news/newsDetail">
                                         <div class="borderBlock">
                                             <picture>
                                                 <source media="(max-width: 640px)"
@@ -254,7 +254,7 @@
                                         Spring-Summer collection
 
                                     </div>
-                                    <a href="home-page.html" class="title">The Contrast treatment: a JLD exclusive technique
+                                    <a href="/news/newsDetail" class="title">The Contrast treatment: a JLD exclusive technique
                                         for
                                         gradual lightening</a>
 
@@ -270,7 +270,7 @@
                             data-tracking-label="Men: the influence of the fifties on the Spring-Summer 2020 hairstyles">
                             <div class="table">
                                 <div class="tableCell">
-                                    <a href="home-page.html">
+                                    <a href="/news/newsDetail">
                                         <div class="borderBlock">
                                             <picture>
                                                 <source media="(max-width: 640px)"
@@ -290,7 +290,7 @@
                                         Spring-Summer collection
 
                                     </div>
-                                    <a href="home-page.html" class="title">Men: the influence of the fifties on the
+                                    <a href="/news/newsDetail" class="title">Men: the influence of the fifties on the
                                         Spring-Summer 2020
                                         hairstyles</a>
 
@@ -306,7 +306,7 @@
                             data-tracking-label="The mullet trend, JLD&#039;s must-have of the season!">
                             <div class="table">
                                 <div class="tableCell">
-                                    <a href="home-page.html">
+                                    <a href="/news/newsDetail">
                                         <div class="borderBlock">
                                             <picture>
                                                 <source media="(max-width: 640px)"
@@ -325,7 +325,7 @@
                                         Spring-Summer collection
 
                                     </div>
-                                    <a href="home-page.html" class="title">The mullet trend, JLD's must-have of the
+                                    <a href="/news/newsDetail" class="title">The mullet trend, JLD's must-have of the
                                         season!</a>
 
                                     <p>The mullet enjoyed a glorious heyday in the 70s and made a low-key
@@ -341,7 +341,7 @@
                             <div class="table">
                                 <div class="tableCell">
 
-                                    <a href="home-page.html">
+                                    <a href="/news/newsDetail">
                                         <div class="borderBlock">
                                             <picture>
                                                 <source media="(max-width: 640px)"
@@ -361,7 +361,7 @@
                                         Spring-Summer collection
 
                                     </div>
-                                    <a href="home-page.html" class="title">Fringes take centre stage for spring-summer
+                                    <a href="/news/newsDetail" class="title">Fringes take centre stage for spring-summer
                                         2020</a>
 
                                     <p>Now more than ever before, Jean Louis David is shining a light on the
