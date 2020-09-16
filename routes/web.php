@@ -28,3 +28,9 @@ Route::get('/news/detail', function () {
 Route::get('/news/newsDetail', function () {
     return view('client.news.newsDetail');
 });
+Route::get('/mostRead/index', function () {
+    return view('client.mostRead.index');
+});
+Route::get('/mostRead/detail', function () {
+    return view('client.mostRead.detail');
+});

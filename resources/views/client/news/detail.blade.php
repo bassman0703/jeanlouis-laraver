@@ -2,6 +2,7 @@
 
 
 @section('title', 'Page Title')
+@section('body-class', 'article-page')
 
 @section('content')
 

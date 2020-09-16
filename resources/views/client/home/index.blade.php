@@ -2,6 +2,7 @@
 
 
 @section('title', 'Page Title')
+@section('body-class', 'home')
 
 @section('content')
     <div class="stickyBookingButton">
@@ -404,18 +405,22 @@
 
                     <div class="articlePreviewBlock">
                         <div class="articlePreview" data-tracking-label="How to apply a hair mask correctly">
-                            <span
-                                class="hrl 1321B44AC1CB464248431321B4454FCC1ECB4F1E4AC0C048C61E4A1E454A46C11E4E4AC2471E424FC1C14342CB48C63F4A262B251321B42A articleThumbnail">
-                                <img src="https://via.placeholder.com/85x85" alt="How to apply a hair mask correctly">
-                                <div class="border"><img src="img/border_line.png"></div>
-                            </span>
+                        
+                            <span class="hrl 1321B44AC1CB464248431321B4454FCC1ECB4F1E4AC0C048C61E4A1E454A46C11E4E4AC2471E424FC1C14342CB48C63F4A262B251321B42A articleThumbnail">
+                                <a href="/mostRead/index">>    
+                                    <img src="https://via.placeholder.com/85x85" alt="How to apply a hair mask correctly">
+                                    <div class="border"><img src="img/border_line.png"></div>
+                                
+                          </a>  
+                        </span>
+                        
                             <div class="articleDescription">
                                 <p class="category">
                                     Experts
                                 </p>
 
                                 <p class="articleTitle">
-                                    <a href="/article/how-to-apply-a-hair-mask-correctly_a948/1">
+                                    <a href="/mostRead/index">
                                         <span>How to apply a hair mask correctly</span>
                                     </a>
                                 </p>
@@ -423,11 +428,12 @@
                         </div>
                         <div class="articlePreview"
                             data-tracking-label="What’s the difference between red and strawberry blonde hair?">
-                            <span
-                                class="hrl 1321B44AC1CB464248431321B4CC454ACBC21ECB45431E4B46444443C1434942431E4143CBCC4343491EC1434B1E4A494B1EC2CBC14ACC4143C1C1C61E41484F494B431E454A46C13F4A232A26251321B42A articleThumbnail">
+                            <span class="hrl 1321B44AC1CB464248431321B4CC454ACBC21ECB45431E4B46444443C1434942431E4143CBCC4343491EC1434B1E4A494B1EC2CBC14ACC4143C1C1C61E41484F494B431E454A46C13F4A232A26251321B42A articleThumbnail">
+                               <a href="/mostRead/index">
                                 <img src="https://via.placeholder.com/85x85"
                                     alt="What’s the difference between red and strawberry blonde hair?">
                                 <div class="border"><img src="img/border_line.png"></div>
+                                </a>
                             </span>
                             <div class="articleDescription">
                                 <p class="category">
@@ -435,17 +441,18 @@
                                 </p>
 
                                 <p class="articleTitle">
-                                    <a href="/article/whats-the-difference-between-red-and-strawberry-blonde-hair_a5198/1">
+                                    <a href="/mostRead/index">
                                         <span>What’s the difference between red and strawberry blonde...</span>
                                     </a>
                                 </p>
                             </div>
                         </div>
                         <div class="articlePreview" data-tracking-label="How to hold your style without hairspray">
-                            <span
-                                class="hrl 1321B44AC1CB464248431321B4454FCC1ECB4F1E454F484B1EC64FC3C11EC2CBC648431ECC46CB454FC3CB1E454A46C1C2C0C14AC63F4A232A22221321B42A articleThumbnail">
-                                <img src="https://via.placeholder.com/85x85" alt="How to hold your style without hairspray">
-                                <div class="border"><img src="img/border_line.png"></div>
+                            <span class="hrl 1321B44AC1CB464248431321B4454FCC1ECB4F1E454F484B1EC64FC3C11EC2CBC648431ECC46CB454FC3CB1E454A46C1C2C0C14AC63F4A232A22221321B42A articleThumbnail">
+                                <a href="/mostRead/index">
+                                    <img src="https://via.placeholder.com/85x85" alt="How to hold your style without hairspray">
+                                    <div class="border"><img src="img/border_line.png"></div>
+                                </a>
                             </span>
                             <div class="articleDescription">
                                 <p class="category">
@@ -453,7 +460,7 @@
                                 </p>
 
                                 <p class="articleTitle">
-                                    <a href="/article/how-to-hold-your-style-without-hairspray_a5133/1">
+                                    <a href="/mostRead/index">
                                         <span>How to hold your style without hairspray</span>
                                     </a>
                                 </p>
@@ -461,19 +468,19 @@
                         </div>
                         <div class="articlePreview"
                             data-tracking-label="What are the differences between streaks and highlights?">
-                            <span
-                                class="hrl 1321B44AC1CB464248431321B4CC454ACB1E4AC1431ECB45431E4B46444443C143494243C21E4143CBCC4343491EC2CBC1434A47C21E4A494B1E45464C4548464C45CBC23F4A262A26241321B42A articleThumbnail">
-                                <img src="https://via.placeholder.com/85x85"
-                                    alt="What are the differences between streaks and highlights?">
-                                <div class="border"><img src="img/border_line.png"></div>
+                            <span class="hrl 1321B44AC1CB464248431321B4CC454ACB1E4AC1431ECB45431E4B46444443C143494243C21E4143CBCC4343491EC2CBC1434A47C21E4A494B1E45464C4548464C45CBC23F4A262A26241321B42A articleThumbnail">
+                                <a href="/mostRead/index">
+                                    <img src="https://via.placeholder.com/85x85"
+                                        alt="What are the differences between streaks and highlights?">
+                                    <div class="border"><img src="img/border_line.png"></div>
+                                </a>
                             </span>
                             <div class="articleDescription">
                                 <p class="category">
                                     Hair colouring
                                 </p>
-
                                 <p class="articleTitle">
-                                    <a href="/article/what-are-the-differences-between-streaks-and-highlights_a9196/1">
+                                    <a href="/mostRead/index">
                                         <span>What are the differences between streaks and highlights?</span>
                                     </a>
                                 </p>

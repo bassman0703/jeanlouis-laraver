@@ -30014,7 +30014,9 @@ body.shp #sideBarBlock .content {
     box-sizing: border-box;
     width: 65%;
     float: left;
-    padding: 0
+    padding: 0;
+    height: max-content;
+    
 }
 
 .newDesign.article-page .colCenter h1 {
@@ -31096,7 +31098,7 @@ body.shp #sideBarBlock .content {
 }
 
 .newDesign .hpNewsBlock {
-    display: flex
+    display: flex;
 }
 
 .newDesign .hpNewsBlock #newsBlockMain {
@@ -32656,7 +32658,7 @@ body.shp #sideBarBlock .content {
     .newDesign.article-page .colCenter {
         padding-left: 0;
         padding-right: 0;
-        width: 100%
+        width: 100%;
     }
 
     .newDesign.article-page .colCenter .content {

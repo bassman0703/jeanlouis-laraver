@@ -35,8 +35,8 @@
             <link rel="next" href="/livenews/2"/>
 
 
-            <link rel="preload" as="style" href="/css/wb-auto-css.css">
-            <link rel="stylesheet" type="text/css" href="/css/wb-auto2-css.css"/>
+    <link rel="preload" as="style" href="{{ asset('/css/wb-auto-css.css') }}">
+            <link rel="stylesheet" type="text/css" href="{{ asset('/css/wb-auto2-css.css') }}"/>
 
 
             <!--[if lt IE 9]>
@@ -44,11 +44,11 @@
             <![endif]-->
 
 
-            <link rel="preload" as="script" href="/js/wb-auto-js.js">
-            <script type="text/javascript" src="/js/wb-auto2-js.js"></script>
+            <link rel="preload" as="script" href="{{ asset('/js/wb-auto-js.js') }}">
+            <script type="text/javascript" src="{{ asset('/js/wb-auto2-js.js') }}"></script>
 
     </head>
-    <body id="home" class="en_US home newDesign">
+    <body id="tag_46" class="en_US @yield('body-class') newDesign">
 <!-- End comScore Tag -->
 <div class="barber__link">
     <a href="https://reservations.jeanlouisdavid.com">
