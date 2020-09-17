@@ -124,7 +124,7 @@
                                              alt="Colouring treatments from the Crazy About JLD Collection"/>
 
                                     <div class="border">
-                                        <img src="img/border_line.png">
+                                        <img src="/img/border_line.png">
                                     </div>
                                      </div>
                                 </a>
@@ -171,7 +171,7 @@
                                              alt="The Contrast treatment: a JLD exclusive technique for gradual lightening"/>
 
                                         <div class="border">
-                                            <img src="img/border_line.png">
+                                            <img src="/img/border_line.png">
                                         </div>
                                     </div>
                                </a>
@@ -219,7 +219,7 @@
                                          alt="The mullet trend, JLD&#039;s must-have of the season!"/>
 
                                     <div class="border">
-                                        <img src="img/border_line.png">
+                                        <img src="/img/border_line.png">
                                     </div>
                                 </div>
                                </a>
@@ -247,7 +247,7 @@
                                  alt="Fringes take centre stage for spring-summer 2020"/>
 
                              <div class="border">
-                                 <img src="img/border_line.png">
+                                 <img src="/img/border_line.png">
                              </div>
                                 </div>
                                </a>
@@ -275,7 +275,7 @@
                                     <img src="https://via.placeholder.com/170x151"
                                          alt="The JLD review of emblematic hairstyles"/>
                                         <div class="border">
-                                            <img src="img/border_line.png">
+                                            <img src="/img/border_line.png">
                                         </div>
                                 </div>
                                </a>
@@ -302,7 +302,7 @@
                  alt="Hair treatments: in which order should you use them?"/>
 
             <div class="border">
-                <img src="img/border_line.png">
+                <img src="/img/border_line.png">
             </div>
         </div>
     </span></div>
@@ -348,7 +348,7 @@
                                              alt="The masculine undercut from the Jean Louis David Autumn-Winter 19/20 collection"/>
 
                                         <div class="border">
-                                            <img src="img/border_line.png">
+                                            <img src="/img/border_line.png">
                                         </div>
                                     </div>
                                 </a>
@@ -394,7 +394,7 @@
                                     <img src="https://via.placeholder.com/170x151"
                                          alt="The side parting for extra movement"/>
                                         <div class="border">
-                                            <img src="img/border_line.png">
+                                            <img src="/img/border_line.png">
                                         </div>
                                 </div>
                               </a>
@@ -439,7 +439,7 @@
             <img src="https://via.placeholder.com/170x151"
                  alt="Volume and movement for Autumn-Winter 2019/2020"/>
 
-            <div class="border"><img src="img/border_line.png"></div>
+            <div class="border"><img src="/img/border_line.png"></div>
         </div>
     </span></div>
                         <div class="infoBlock">
@@ -464,7 +464,7 @@
                                              alt="Looks from the At The Top collection"/>
 
                                         <div class="border">
-                                            <img src="img/border_line.png">
+                                            <img src="/img/border_line.png">
                                         </div>
                                     </div>
                                </a>
@@ -490,7 +490,7 @@
                                         <img src="https://via.placeholder.com/170x151"
                                              alt="Colouring treatments from the At The Top collection"/>
                                         <div class="border">
-                                            <img src="img/border_line.png">
+                                            <img src="/img/border_line.png">
                                         </div>
                                     </div>
                                </a>
@@ -514,7 +514,7 @@
             <img src="https://via.placeholder.com/170x151"
                  alt="Jean Louis David&#039;s sleek hairstyle for a vintage look"/>
 
-            <div class="border"><img src="img/border_line.png"></div>
+            <div class="border"><img src="/img/border_line.png"></div>
         </div>
     </span></div>
                         <div class="infoBlock">
@@ -559,7 +559,7 @@
             <img src="https://via.placeholder.com/170x151"
                  alt="Hair colouring: what are the trends for autumn 2019?"/>
 
-            <div class="border"><img src="img/border_line.png"></div>
+            <div class="border"><img src="/img/border_line.png"></div>
         </div>
     </span></div>
                         <div class="infoBlock">
@@ -602,7 +602,7 @@
                                         <img src="https://via.placeholder.com/170x151"
                                              alt="How can you detangle your hair without damaging it?"/>
                                             <div class="border">
-                                                <img src="img/border_line.png">
+                                                <img src="/img/border_line.png">
                                             </div>
                                     </div>
                                 </a>
@@ -649,7 +649,7 @@
                                             alt="3 mistakes to avoid in summer to keep your hair looking beautiful"/>
 
                                 <div class="border">
-                                    <img src="img/border_line.png">
+                                    <img src="/img/border_line.png">
                                 </div>
                                 </div>
                             </span>
@@ -676,7 +676,7 @@
                                     <img src="https://via.placeholder.com/170x151"
                                          alt="Sun exposure: how to stop the yellowing effect on my blonde hair?"/>
                                     <div class="border">
-                                <img src="img/border_line.png">
+                                <img src="/img/border_line.png">
                                 </div>
                                </a>
                         </div>
@@ -702,7 +702,7 @@
                                     <img src="https://via.placeholder.com/170x151"
                                          alt="Is a fringe in summer a good or bad idea?"/>
                                     <div class="border">
-                                        <img src="img/border_line.png">
+                                        <img src="/img/border_line.png">
                                     </div>
                                  </div>
                                 </a>
@@ -727,7 +727,7 @@
                                 alt="Gloss vs patina: which technique should you choose ?"/>
 
                             <div class="border">
-                                <img src="img/border_line.png">
+                                <img src="/img/border_line.png">
                             </div>
                             </div>
                         </span>
@@ -754,7 +754,7 @@
                                              alt="Curly or frizzy hair: what are the differences?"/>
 
                                         <div class="border">
-                                            <img src="img/border_line.png">
+                                            <img src="/img/border_line.png">
                                         </div>
                                     </div>
                                 </a>
@@ -779,7 +779,7 @@
             <img src="https://via.placeholder.com/170x151"
                  alt="Men: 3 secrets to having healthy hair"/>
 
-            <div class="border"><img src="img/border_line.png"></div>
+            <div class="border"><img src="/img/border_line.png"></div>
         </div>
     </span></div>
                         <div class="infoBlock">
@@ -803,7 +803,7 @@
                  alt="Changing colour – is it bad for your hair?"/>
 
             <div class="border">
-                <img src="img/border_line.png"></div>
+                <img src="/img/border_line.png"></div>
         </div>
     </span>
                         </div>
@@ -828,7 +828,7 @@
                                         <img src="https://via.placeholder.com/170x151"
                                              alt="Preconceptions about dry shampoo"/>
                                         <div class="border">
-                                            <img src="img/border_line.png">
+                                            <img src="/img/border_line.png">
                                         </div>
                                     </div>
                                 </a>
@@ -854,7 +854,7 @@
                                                     alt="3 ideas for perfect hot-weather hairstyles"/>
 
                                 <div class="border">
-                                    <img src="img/border_line.png">
+                                    <img src="/img/border_line.png">
                                 </div>
                             </div>
                             </span>
@@ -879,7 +879,7 @@
             <img src="https://via.placeholder.com/170x151"
                  alt="3 good reasons to opt for a hair gloss treatment"/>
 
-            <div class="border"><img src="img/border_line.png"></div>
+            <div class="border"><img src="/img/border_line.png"></div>
         </div>
     </span></div>
                         <div class="infoBlock">
@@ -1103,12 +1103,13 @@
                                 <img src="https://via.placeholder.com/317x216"
                                      alt="The dossier: which hairstyle for a wedding ceremony?"/>
                                 <span class="hrl 1321B4444F484B43C11321B4CB45431E4B4FC2C24643C11ECC454642451E454A46C1C2CBC648431E444FC11E4A1ECC434B4B46494C1E4243C1434E4F49C63F4B2A222321221321B42A">
-                                    <div
-                                            class="striped">
-            <div class="white">
-                <p class="labelTitle">folder</p>
-                <a class="labelName" href="/folder/the-dossier-which-hairstyle-for-a-wedding-ceremony_d13523/1">The dossier: which hairstyle for a wedding ceremony?</a>
-            </div>
+                                    <div class="striped">
+                                       <a href="/lastest/index"> 
+                                            <div class="white">
+                                                <p class="labelTitle">folder</p>
+                                                <a class="labelName" href="/lastest/index">The dossier: which hairstyle for a wedding ceremony?</a>
+                                            </div>
+                                        </a>
         </div>
     </span></div>
                             <ul>

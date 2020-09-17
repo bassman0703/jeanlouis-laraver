@@ -5291,7 +5291,7 @@ a.moreNews:hover {
 }
 
 #sideBarBlock .contentCol .imgWrap .striped:hover {
-    background: url(web/skins/images/striped.jpg) no-repeat center center
+    background: url(/img/striped.jpg) no-repeat center center
 }
 
 #sideBarBlock .contentCol .imgWrap .striped:hover .white {
@@ -6021,7 +6021,7 @@ a.buttonView:hover {
 .page_product .description_wrapper {
     position: relative;
     width: 48.7%;
-    background: url(web/skins/images/striped.jpg);
+    background: url(/img/striped.jpg);
     padding: 125px;
     font-family: 'Lato', sans-serif;
     color: #3d3d3d;
@@ -11605,7 +11605,7 @@ body .ui-widget-overlay.ui-front {
 
 .expert-page .desc_area {
     position: relative;
-    background: url(web/skins/images/striped.jpg);
+    background: url(/img/striped.jpg);
     margin-left: 23%;
     padding: 48% 0 0 15%;
     margin-bottom: 3%
@@ -11821,7 +11821,7 @@ body:not(.home) .articleBlock2 .table {
 }
 
 .dossier-striped {
-    background: url(web/skins/images/striped.jpg) repeat center center;
+    background: url(/img/striped.jpg) repeat center center;
     padding: 50px;
     margin-bottom: 25px
 }

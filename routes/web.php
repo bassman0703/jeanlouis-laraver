@@ -42,3 +42,7 @@ Route::get('/trand/index', function () {
 Route::get('/trand/detail', function () {
     return view('client.trand.detail');
 });
+
+Route::get('/lastest/index', function () {
+    return view('client.lastest.index');
+});

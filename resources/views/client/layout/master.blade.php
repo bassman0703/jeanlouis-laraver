@@ -48,7 +48,7 @@
             <script type="text/javascript" src="{{ asset('/js/wb-auto2-js.js') }}"></script>
 
     </head>
-    <body id="tag_46" class="en_US @yield('body-class') newDesign">
+    <body id="tag_46" class="en_US @yield('body-class')">
 <!-- End comScore Tag -->
 <div class="barber__link">
     <a href="https://reservations.jeanlouisdavid.com">

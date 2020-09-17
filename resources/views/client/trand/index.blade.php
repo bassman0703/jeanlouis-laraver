@@ -2,7 +2,8 @@
 
 
 @section('title', 'Page Title')
-
+@section('body-class','shp')
+    
 @section('content')
 
     <div class="stickyBookingButton">
