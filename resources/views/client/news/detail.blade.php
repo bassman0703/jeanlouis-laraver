@@ -2,7 +2,6 @@
 
 
 @section('title', 'Page Title')
-@section('body-class', 'article-page')
 
 @section('content')
 
@@ -95,7 +94,7 @@
                      data-tracking-label="Looks from the Crazy about JLD collection">
 
                         <span class="hrl 1321B44AC1CB464248431321B4484F4F47C21E44C14F4E1ECB45431E42C14ACDC61E4A414FC3CB1E4D484B1E424F48484342CB464F493F4A2A222420221321B42A">
-                           <a href="home-page.html">
+                           <a href="/news/newsDetail">
                                <img src="https://via.placeholder.com/371x240"
                                     alt="Looks from the Crazy about JLD collection"/>
                      </a>
@@ -103,7 +102,7 @@
 
                     <div class="infoBlock">
                         <div class="typeInfo">Spring-Summer collection</div>
-                        <a href="home-page.html" class="title">Looks
+                        <a href="news/newsDetail" class="title">Looks
                             from the Crazy about JLD collection</a>
 
                         <p>With the Spring-Summer 2020 Crazy about JLD collection, Jean Louis David pays homage
@@ -119,7 +118,7 @@
                     <div class="table">
                         <div class="tableCell">
                             <span class="hrl 1321B44AC1CB464248431321B4424F484FC3C146494C1ECBC1434ACB4E4349CBC21E44C14F4E1ECB45431E42C14ACDC61E4A414FC3CB1E4D484B1E424F48484342CB464F493F4A2A222420201321B42A">
-                                <a href="home-page.html">
+                                <a href="/trand/detail">
                                     <div class="borderBlock">
                                         <img src="https://via.placeholder.com/170x151"
                                              alt="Colouring treatments from the Crazy About JLD Collection"/>
@@ -150,7 +149,7 @@
 </span>
                     <div class="infoBlock">
                         <div class="typeInfo">Spring-Summer collection</div>
-                        <a href="/article/layers-for-a-touch-of-90s-style-at-jld_a13597/1" class="title">Layers:
+                        <a href="/trand/detail" class="title">Layers:
                             for a touch of 90s style at JLD</a>
 
                         <p>Do you remember how layers were all the rage (almost) thirty years ago? Well, the
@@ -166,7 +165,7 @@
                     <div class="table">
                         <div class="tableCell">
                             <span class="hrl 1321B44AC1CB464248431321B4CB45431E424F49CBC14AC2CB1ECBC1434ACB4E4349CB1E4A1E4D484B1E43C54248C3C246C4431ECB4342454946CAC3431E444FC11E4CC14A4BC34A481E48464C45CB434946494C3F4A2A2223262B1321B42A">
-                               <a href="home-page.html">
+                               <a href="/trand/detail">
                                     <div class="borderBlock">
                                         <img src="https://via.placeholder.com/170x151"
                                              alt="The Contrast treatment: a JLD exclusive technique for gradual lightening"/>
@@ -183,7 +182,7 @@
                                 Spring-Summer collection
 
                             </div>
-                            <a href="home-page.html"
+                            <a href="/trand/detail"
                                class="title">The Contrast treatment: a JLD exclusive technique for gradual
                                 lightening</a>
                         </div>
@@ -192,7 +191,7 @@
                 <div class="articleBlock1 hpArticleBlock"
                      data-tracking-label="Men: the influence of the fifties on the Spring-Summer 2020 hairstyles">
                     <span class="hrl 1321B44AC1CB464248431321B44E43491ECB45431E46494448C3434942431E4F441ECB45431E444644CB4643C21E4F491ECB45431EC2C0C146494C1EC2C34E4E43C11E212021201E454A46C1C2CBC64843C23F4A2A2223262A1321B42A">
-                        <a href="home-page.html">
+                        <a href="/trand/detail">
                         <img src="https://via.placeholder.com/371x240"
                              alt="Men: the influence of the fifties on the Spring-Summer 2020 hairstyles"/>
                         </a>
@@ -242,7 +241,7 @@
                     <div class="table">
                         <div class="tableCell">
                             <span class="hrl 1321B44AC1CB464248431321B444C146494C43C21ECB4A47431E424349CBC1431EC2CB4A4C431E444FC11EC2C0C146494C1EC2C34E4E43C11E212021203F4A2A222325211321B42A">
-                               <a href="home-page.html">
+                               <a href="/trand/detail">
                                 <div class="borderBlock">
                             <img src="https://via.placeholder.com/170x151"
                                  alt="Fringes take centre stage for spring-summer 2020"/>
@@ -259,7 +258,7 @@
                                 Spring-Summer collection
 
                             </div>
-                            <a href="home-page.html"
+                            <a href="/trand/detail"
                                class="title">Fringes take centre stage for spring-summer 2020</a>
 
                         </div>
@@ -270,7 +269,7 @@
                     <div class="table">
                         <div class="tableCell">
                             <span class="hrl 1321B44AC1CB464248431321B4CB45431E4D484B1EC143C44643CC1E4F441E434E4148434E4ACB46421E454A46C1C2CBC64843C23F4A2A222325251321B42A">
-                               <a href="home-page.html">
+                               <a href="/trand/detail">
                                 <div
                                     class="borderBlock">
                                     <img src="https://via.placeholder.com/170x151"
@@ -286,7 +285,7 @@
                             <div class="typeInfo">
                                 Spring-Summer collection
                             </div>
-                            <a href="home-page.html" class="title">
+                            <a href="/trand/detail" class="title">
                                 The JLD review of emblematic hairstyles
                             </a>
                         </div>
@@ -312,7 +311,7 @@
                                 Hair care
 
                             </div>
-                            <a href="/article/hair-treatments-in-which-order-should-you-use-them_a13579/1"
+                            <a href="/trand/detail"
                                class="title">Hair treatments: in which order should you use them?</a>
 
                         </div>
@@ -321,14 +320,14 @@
                 <div class="articleBlock1 hpArticleBlock"
                      data-tracking-label="Brunette hair colouring: which shade of brown to choose if you have pale skin?">
             <span class="hrl 1321B44AC1CB464248431321B441C1C34943CBCB431E454A46C11E424F484FC3C146494C1ECC454642451EC2454A4B431E4F441E41C14FCC491ECB4F1E42454F4FC2431E46441EC64FC31E454AC4431EC04A48431EC24746493F4A2A22232C2C1321B42A">
-                <a href="home-page.html">
+                <a href="/trand/detail">
                     <img src="https://via.placeholder.com/371x240"
                          alt="Brunette hair colouring: which shade of brown to choose if you have pale skin?"/>
                 </a>
             </span>
                     <div class="infoBlock">
                         <div class="typeInfo">Hair colouring</div>
-                        <a href="home-page.html"
+                        <a href="/trand/detail"
                            class="title">Brunette hair colouring: which shade of brown to choose...</a>
 
                         <p>If you have pale skin, you can still opt for a shade of brunette. However, certain
@@ -343,7 +342,7 @@
                     <div class="table">
                         <div class="tableCell">
                             <span class="hrl 1321B44AC1CB464248431321B4CB45431E4E4AC242C3484649431EC3494B43C142C3CB1E44C14F4E1ECB45431E4D434A491E484FC346C21E4B4AC4464B1E4AC3CBC34E491ECC4649CB43C11E2A261E21201E424F48484342CB464F493F4A2A22232C2B1321B42A">
-                                <a href="home-page.html">
+                                <a href="/trand/detail">
                                     <div class="borderBlock">
                                         <img src="https://via.placeholder.com/170x151"
                                              alt="The masculine undercut from the Jean Louis David Autumn-Winter 19/20 collection"/>
@@ -359,7 +358,7 @@
                             <div class="typeInfo">
                                 Collections
                             </div>
-                            <a href="home-page.html"
+                            <a href="/trand/detail"
                                class="title">The masculine undercut from the Jean Louis David Autumn-Winter
                                 19/20 collection</a>
 
@@ -368,13 +367,13 @@
                 </div>
                 <div class="articleBlock1 hpArticleBlock"
                      data-tracking-label="Everyone is rocking the 80s trend this season!">
-<span class="hrl 1321B44AC1CB464248431321B443C443C1C64F49431E46C21EC14F424746494C1ECB45431E2520C21ECBC143494B1ECB4546C21EC2434AC24F493F4A2A22232C2A1321B42A">        <img
-        src="https://via.placeholder.com/371x240"
-        alt="Everyone is rocking the 80s trend this season!"/>
-</span>
+                    <span class="hrl 1321B44AC1CB464248431321B443C443C1C64F49431E46C21EC14F424746494C1ECB45431E2520C21ECBC143494B1ECB4546C21EC2434AC24F493F4A2A22232C2A1321B42A">        <img
+                            src="https://via.placeholder.com/371x240"
+                            alt="Everyone is rocking the 80s trend this season!"/>
+                    </span>
                     <div class="infoBlock">
                         <div class="typeInfo">Collections</div>
-                        <a href="/article/everyone-is-rocking-the-80s-trend-this-season_a13571/1" class="title">Everyone
+                        <a href="/trand/detail" class="title">Everyone
                             is rocking the 80s trend this season!</a>
 
                         <p>With the new Autumn-Winter 2019/2020 collection, Jean Louis David has decided to give
@@ -390,7 +389,7 @@
                     <div class="table">
                         <div class="tableCell">
                             <span class="hrl 1321B44AC1CB464248431321B4CB45431EC2464B431EC04AC1CB46494C1E444FC11E43C5CBC14A1E4E4FC4434E4349CB3F4A2A222324251321B42A">
-                              <a href="home-page.html">
+                              <a href="/trand/detail">
                                 <div class="borderBlock">
                                     <img src="https://via.placeholder.com/170x151"
                                          alt="The side parting for extra movement"/>
@@ -405,7 +404,7 @@
                             <div class="typeInfo">
                                 Collections
                             </div>
-                            <a href="home-page.html" class="title">
+                            <a href="/trand/detail" class="title">
                                 The side parting for extra movement
                             </a>
 
@@ -414,14 +413,14 @@
                 </div>
                 <div class="articleBlock1 hpArticleBlock" data-tracking-label="The short layered cut by Jean Louis David: a major trend this season">
                     <span class="hrl 1321B44AC1CB464248431321B4CB45431EC2454FC1CB1E484AC643C1434B1E42C3CB1E41C61E4D434A491E484FC346C21E4B4AC4464B1E4A1E4E4A4D4FC11ECBC143494B1ECB4546C21EC2434AC24F493F4A2A222324231321B42A">
-                       <a href="home-page.html">
+                       <a href="/trand/detail">
                             <img src="https://via.placeholder.com/371x240"
                                  alt="The short layered cut by Jean Louis David: a major trend this season"/>
                        </a>
                     </span>
                     <div class="infoBlock">
                         <div class="typeInfo">Collections</div>
-                        <a href="home-page.html"
+                        <a href="/trand/detail"
                            class="title">The short layered cut by Jean Louis David: a major trend...</a>
                         <p>For the new Autumn-Winter 2019/2020 "At The Top" collection, Jean Louis David has
                             created a short layered cut full of vitality and character. It's enough to convince
@@ -448,7 +447,7 @@
                                 Collections
 
                             </div>
-                            <a href="/article/volume-and-movement-for-autumn-winter-2019-2020_a13562/1"
+                            <a href="/trand/detail"
                                class="title">Volume and movement for Autumn-Winter 2019/2020</a>
 
                         </div>
@@ -459,7 +458,7 @@
                     <div class="table">
                         <div class="tableCell">
                             <span class="hrl 1321B44AC1CB464248431321B4484F4F47C21E44C14F4E1ECB45431E4ACB1ECB45431ECB4FC01E424F48484342CB464F493F4A2A222323261321B42A">
-                               <a href="home-page.html">
+                               <a href="/trand/detail">
                                     <div class="borderBlock">
                                         <img src="https://via.placeholder.com/170x151"
                                              alt="Looks from the At The Top collection"/>
@@ -475,7 +474,7 @@
                             <div class="typeInfo">
                                 Collections
                             </div>
-                            <a href="home-page.html" class="title">Looks
+                            <a href="/trand/detail" class="title">Looks
                                 from the At The Top collection
                             </a>
                         </div>
@@ -486,7 +485,7 @@
                     <div class="table">
                         <div class="tableCell">
                             <span class="hrl 1321B44AC1CB464248431321B4424F484FC3C146494C1ECBC1434ACB4E4349CBC21E44C14F4E1ECB45431E4ACB1ECB45431ECB4FC01E424F48484342CB464F493F4A2A222323241321B42A">
-                               <a href="home-page.html">
+                               <a href="/trand/detail">
                                     <div class="borderBlock">
                                         <img src="https://via.placeholder.com/170x151"
                                              alt="Colouring treatments from the At The Top collection"/>
@@ -501,7 +500,7 @@
                             <div class="typeInfo">
                                 Collections
                             </div>
-                            <a href="home-page.html"
+                            <a href="/trand/detail"
                                class="title">Colouring treatments from the At The Top collection</a>
                         </div>
                     </div>
@@ -523,7 +522,7 @@
                                 Collections
 
                             </div>
-                            <a href="/article/jean-louis-david-s-sleek-hairstyle-for-a-vintage-look_a13553/1"
+                            <a href="/trand/detail"
                                class="title">Jean Louis David's sleek hairstyle for a vintage look</a>
 
                         </div>
@@ -532,7 +531,7 @@
                 <div class="articleBlock1 hpArticleBlock"
                      data-tracking-label="Summer holidays: 3 essential hair treatments for your suitcase">
                         <span class="hrl 1321B44AC1CB464248431321B4C2C34E4E43C11E454F48464B4AC6C21E221E43C2C24349CB464A481E454A46C11ECBC1434ACB4E4349CBC21E444FC11EC64FC3C11EC2C346CB424AC2433F4A2A222323201321B42A">
-                            <a href="home-page.html">
+                            <a href="/trand/detail">
                             <img
                                 src="https://via.placeholder.com/371x240"
                                 alt="Summer holidays: 3 essential hair treatments for your suitcase"/>
@@ -540,7 +539,7 @@
                         </span>
                     <div class="infoBlock">
                         <div class="typeInfo">Hair care</div>
-                        <a href="home-page.html"
+                        <a href="/trand/detail"
                            class="title">Summer holidays: 3 essential hair treatments for your...</a>
 
                         <p>The summer holidays have arrived! Time to get your swimsuits, beach towels, sandals
@@ -568,7 +567,7 @@
                                 Hair colouring
 
                             </div>
-                            <a href="/article/hair-colouring-what-are-the-trends-for-autumn-2019_a13547/1"
+                            <a href="/trand/detail"
                                class="title">Hair colouring: what are the trends for autumn 2019?</a>
 
                         </div>
@@ -582,7 +581,7 @@
 </span>
                     <div class="infoBlock">
                         <div class="typeInfo">Hair care</div>
-                        <a href="/article/massaging-your-scalp-what-are-the-benefits_a13529/1" class="title">Massaging
+                        <a href="/trand/detail" class="title">Massaging
                             your scalp: what are the benefits?</a>
 
                         <p>Praised for its relaxing effects, a scalp massage has many other virtues. Here are
@@ -598,7 +597,7 @@
                     <div class="table">
                         <div class="tableCell">
                             <span class="hrl 1321B44AC1CB464248431321B4454FCC1E424A491EC64FC31E4B43CB4A494C48431EC64FC3C11E454A46C11ECC46CB454FC3CB1E4B4A4E4A4C46494C1E46CB3F4A2A22232B2B1321B42A">
-                                <a href="home-page.html">
+                                <a href="/trand/detail">
                                     <div class="borderBlock">
                                         <img src="https://via.placeholder.com/170x151"
                                              alt="How can you detangle your hair without damaging it?"/>
@@ -613,7 +612,7 @@
                             <div class="typeInfo">
                                 Hair care
                             </div>
-                            <a href="home-page.html"
+                            <a href="/trand/detail"
                                class="title">How can you detangle your hair without damaging it?</a>
 
                         </div>
@@ -622,14 +621,14 @@
                 <div class="articleBlock1 hpArticleBlock"
                      data-tracking-label="Hair masks: how long should I leave them in for?">
             <span class="hrl 1321B44AC1CB464248431321B4454A46C11E4E4AC247C21E454FCC1E484F494C1EC2454FC3484B1E461E48434AC4431ECB45434E1E46491E444FC13F4A2A22232B2A1321B42A">
-                       <a href="home-page.html">
+                       <a href="/trand/detail">
                         <img src="https://via.placeholder.com/371x240"
                              alt="Hair masks: how long should I leave them in for?"/>
                        </a>
             </span>
                     <div class="infoBlock">
                         <div class="typeInfo">Hair care</div>
-                        <a href="home-page.html"
+                        <a href="/trand/detail"
                            class="title">Hair masks: how long should I leave them in for?</a>
 
                         <p>We could sing the praises of hair masks all day long. Yet, there still remains one
@@ -646,20 +645,21 @@
                             <span class="hrl 1321B44AC1CB464248431321B4221E4E46C2CB4A4743C21ECB4F1E4AC44F464B1E46491EC2C34E4E43C11ECB4F1E474343C01EC64FC3C11E454A46C11E484F4F4746494C1E41434AC3CB4644C3483F4A2A222322251321B42A">
                                 <div
                                         class="borderBlock">
-            <img src="https://via.placeholder.com/170x151"
-                 alt="3 mistakes to avoid in summer to keep your hair looking beautiful"/>
+                                        <img src="https://via.placeholder.com/170x151"
+                                            alt="3 mistakes to avoid in summer to keep your hair looking beautiful"/>
 
-            <div class="border">
-                <img src="img/border_line.png">
-            </div>
-        </div>
-    </span></div>
+                                <div class="border">
+                                    <img src="img/border_line.png">
+                                </div>
+                                </div>
+                            </span>
+                        </div>
                         <div class="infoBlock">
                             <div class="typeInfo">
                                 Hair care
 
                             </div>
-                            <a href="/article/3-mistakes-to-avoid-in-summer-to-keep-your-hair-looking-beautiful_a13538/1"
+                            <a href="/trand/detail"
                                class="title">3 mistakes to avoid in summer to keep your hair looking
                                 beautiful</a>
 
@@ -671,7 +671,7 @@
                     <div class="table">
                         <div class="tableCell">
                             <span class="hrl 1321B44AC1CB464248431321B4C2C3491E43C5C04FC2C3C1431E454FCC1ECB4F1EC2CB4FC01ECB45431EC64348484FCC46494C1E4344444342CB1E4F491E4EC61E41484F494B431E454A46C13F4A2A222322231321B42A">
-                               <a href="home-page.html">
+                               <a href="/trand/detail">
                                 <div class="borderBlock">
                                     <img src="https://via.placeholder.com/170x151"
                                          alt="Sun exposure: how to stop the yellowing effect on my blonde hair?"/>
@@ -686,7 +686,7 @@
                             <div class="typeInfo">
                                 Blonde hair
                             </div>
-                            <a href="home-page.html"
+                            <a href="/trand/detail"
                                class="title">Sun exposure: how to stop the yellowing effect on my blonde hair?
                             </a>
                         </div>
@@ -697,7 +697,7 @@
                     <div class="table">
                         <div class="tableCell">
                             <span class="hrl 1321B44AC1CB464248431321B446C21E4A1E44C146494C431E46491EC2C34E4E43C11E4A1E4C4F4F4B1E4FC11E414A4B1E464B434A3F4A2A222322211321B42A">
-                                <a href="home-page.html">
+                                <a href="/trand/detail">
                                 <div class="borderBlock">
                                     <img src="https://via.placeholder.com/170x151"
                                          alt="Is a fringe in summer a good or bad idea?"/>
@@ -712,7 +712,7 @@
                             <div class="typeInfo">
                                 Hairstyle
                             </div>
-                            <a href="home-page.html" class="title">Is
+                            <a href="/trand/detail" class="title">Is
                                 a fringe in summer a good or bad idea?</a>
                         </div>
                     </div>
@@ -723,18 +723,21 @@
                         <div class="tableCell">
                             <span class="hrl 1321B44AC1CB464248431321B44C484FC2C21EC4C21EC04ACB46494A1ECC454642451ECB4342454946CAC3431EC2454FC3484B1EC64FC31E42454F4FC2433F4A2A222321241321B42A">                <div
                                     class="borderBlock">
-            <img src="https://via.placeholder.com/170x151"
-                 alt="Gloss vs patina: which technique should you choose ?"/>
+                            <img src="https://via.placeholder.com/170x151"
+                                alt="Gloss vs patina: which technique should you choose ?"/>
 
-            <div class="border"><img src="img/border_line.png"></div>
-        </div>
-    </span></div>
+                            <div class="border">
+                                <img src="img/border_line.png">
+                            </div>
+                            </div>
+                        </span>
+                    </div>
                         <div class="infoBlock">
                             <div class="typeInfo">
                                 Caring for coloured hair
 
                             </div>
-                            <a href="/article/gloss-vs-patina-which-technique-should-you-choose_a13526/1"
+                            <a href="/trand/detail"
                                class="title">Gloss vs patina: which technique should you choose ?</a>
 
                         </div>
@@ -745,7 +748,7 @@
                     <div class="table">
                         <div class="tableCell">
                             <span class="hrl 1321B44AC1CB464248431321B442C3C148C61E4FC11E44C146CDCDC61E454A46C11ECC454ACB1E4AC1431ECB45431E4B46444443C143494243C23F4A2A222321201321B42A">
-                                <a href="home-page.html">
+                                <a href="/trand/detail">
                                     <div class="borderBlock">
                                         <img src="https://via.placeholder.com/170x151"
                                              alt="Curly or frizzy hair: what are the differences?"/>
@@ -761,7 +764,7 @@
                             <div class="typeInfo">
                                 Curly hair
                             </div>
-                            <a href="home-page.html"
+                            <a href="/trand/detail"
                                class="title">Curly or frizzy hair: what are the differences?
                             </a>
                         </div>
@@ -784,7 +787,7 @@
                                 Men
 
                             </div>
-                            <a href="/article/men-3-secrets-to-having-healthy-hair_a13517/1" class="title">Men:
+                            <a href="/trand/detail" class="title">Men:
                                 3 secrets to having healthy hair</a>
 
                         </div>
@@ -809,7 +812,7 @@
                                 Hair colouring
 
                             </div>
-                            <a href="/article/changing-colour-is-it-bad-for-your-hair_a13514/1" class="title">Changing
+                            <a href="/trand/detail" class="title">Changing
                                 colour – is it bad for your hair?</a>
 
                         </div>
@@ -820,7 +823,7 @@
                     <div class="table">
                         <div class="tableCell">
                             <span class="hrl 1321B44AC1CB464248431321B4C0C143424F494243C0CB464F49C21E4A414FC3CB1E4BC1C61EC2454A4EC04F4F3F4A2A222320251321B42A">
-                                <a href="home-page.html">
+                                <a href="/trand/detail">
                                     <div class="borderBlock">
                                         <img src="https://via.placeholder.com/170x151"
                                              alt="Preconceptions about dry shampoo"/>
@@ -835,7 +838,7 @@
                             <div class="typeInfo">
                                 Hair care
                             </div>
-                            <a href="home-page.html" class="title">Preconceptions
+                            <a href="/trand/detail" class="title">Preconceptions
                                 about dry shampoo</a>
                         </div>
                     </div>
@@ -847,20 +850,21 @@
                             <span class="hrl 1321B44AC1CB464248431321B4221E464B434AC21E444FC11EC043C1444342CB1E454FCB1ECC434ACB4543C11E454A46C1C2CBC64843C23F4A2A22232A2A1321B42A">
                                 <div
                                         class="borderBlock">
-            <img src="https://via.placeholder.com/170x151"
-                 alt="3 ideas for perfect hot-weather hairstyles"/>
+                                                <img src="https://via.placeholder.com/170x151"
+                                                    alt="3 ideas for perfect hot-weather hairstyles"/>
 
-            <div class="border">
-                <img src="img/border_line.png">
-            </div>
-        </div>
-    </span></div>
+                                <div class="border">
+                                    <img src="img/border_line.png">
+                                </div>
+                            </div>
+                            </span>
+                        </div>
                         <div class="infoBlock">
                             <div class="typeInfo">
                                 Hairstyle
 
                             </div>
-                            <a href="/article/3-ideas-for-perfect-hot-weather-hairstyles_a13511/1"
+                            <a href="/trand/detail"
                                class="title">3 ideas for perfect hot-weather hairstyles</a>
 
                         </div>
@@ -883,7 +887,7 @@
                                 Hair colouring
 
                             </div>
-                            <a href="/article/3-good-reasons-to-opt-for-a-hair-gloss-treatment_a13505/1"
+                            <a href="/trand/detail"
                                class="title">3 good reasons to opt for a hair gloss treatment</a>
 
                         </div>
@@ -923,18 +927,24 @@
 
                 <div class="articlePreviewBlock">
                     <div class="articlePreview" data-tracking-label="How to apply a hair mask correctly">
-<span class="hrl 1321B44AC1CB464248431321B4454FCC1ECB4F1E4AC0C048C61E4A1E454A46C11E4E4AC2471E424FC1C14342CB48C63F4A262B251321B42A articleThumbnail">        <img
-    src="https://via.placeholder.com/77x77"
-    alt="How to apply a hair mask correctly">
-<div class="border"><img src="img/border_line.png"></div>
-</span>
+                        <span class="hrl 1321B44AC1CB464248431321B4454FCC1ECB4F1E4AC0C048C61E4A1E454A46C11E4E4AC2471E424FC1C14342CB48C63F4A262B251321B42A articleThumbnail">      
+                            <a href="/mostRead/index">
+                                <img src="https://via.placeholder.com/77x77"
+                                    alt="How to apply a hair mask correctly">
+                                <div class="border">
+                                    <img src="/img/border_line.png">
+                                </div>
+                            </a>
+                            </span>
+                        
+
                         <div class="articleDescription">
                             <p class="category">
                                 Experts
                             </p>
 
                             <p class="articleTitle">
-                                <a href="/article/how-to-apply-a-hair-mask-correctly_a948/1">
+                                <a href="/mostRead/index">
                                     <span>How to apply a hair mask correctly</span>
                                 </a>
                             </p>
@@ -942,36 +952,46 @@
                     </div>
                     <div class="articlePreview"
                          data-tracking-label="What’s the difference between red and strawberry blonde hair?">
-<span class="hrl 1321B44AC1CB464248431321B4CC454ACBC21ECB45431E4B46444443C1434942431E4143CBCC4343491EC1434B1E4A494B1EC2CBC14ACC4143C1C1C61E41484F494B431E454A46C13F4A232A26251321B42A articleThumbnail">        <img
-    src="https://via.placeholder.com/77x77"
-    alt="What’s the difference between red and strawberry blonde hair?">
-<div class="border"><img src="img/border_line.png"></div>
-</span>
+                           
+                                <span class="hrl 1321B44AC1CB464248431321B4CC454ACBC21ECB45431E4B46444443C1434942431E4143CBCC4343491EC1434B1E4A494B1EC2CBC14ACC4143C1C1C61E41484F494B431E454A46C13F4A232A26251321B42A articleThumbnail">    
+                                    <a href="/mostRead/index">
+                                        <img src="https://via.placeholder.com/77x77"
+                                             alt="What’s the difference between red and strawberry blonde hair?">
+
+                                            <div class="border">
+                                            <img src="/img/border_line.png">
+                                        </div>
+                                    </a>
+                                </span>
                         <div class="articleDescription">
                             <p class="category">
                                 Experts
                             </p>
 
                             <p class="articleTitle">
-                                <a href="/article/whats-the-difference-between-red-and-strawberry-blonde-hair_a5198/1">
+                                <a href="/mostRead/index">
                                     <span>What’s the difference between red and strawberry blonde...</span>
                                 </a>
                             </p>
                         </div>
                     </div>
                     <div class="articlePreview" data-tracking-label="How to hold your style without hairspray">
-<span class="hrl 1321B44AC1CB464248431321B4454FCC1ECB4F1E454F484B1EC64FC3C11EC2CBC648431ECC46CB454FC3CB1E454A46C1C2C0C14AC63F4A232A22221321B42A articleThumbnail">        <img
-    src="https://via.placeholder.com/77x77"
-    alt="How to hold your style without hairspray">
-<div class="border"><img src="img/border_line.png"></div>
-</span>
+                                <span class="hrl 1321B44AC1CB464248431321B4454FCC1ECB4F1E454F484B1EC64FC3C11EC2CBC648431ECC46CB454FC3CB1E454A46C1C2C0C14AC63F4A232A22221321B42A articleThumbnail">
+                                   <a href="/mostRead/index">
+                                    <img src="https://via.placeholder.com/77x77"
+                                        alt="How to hold your style without hairspray">
+                                    <div class="border">
+                                        <img src="/img/border_line.png">
+                                    </div>
+                                </a>
+                                </span>
                         <div class="articleDescription">
                             <p class="category">
                                 Experts
                             </p>
 
                             <p class="articleTitle">
-                                <a href="/article/how-to-hold-your-style-without-hairspray_a5133/1">
+                                <a href="/mostRead/index">
                                     <span>How to hold your style without hairspray</span>
                                 </a>
                             </p>
@@ -979,18 +999,22 @@
                     </div>
                     <div class="articlePreview"
                          data-tracking-label="What are the differences between streaks and highlights?">
-<span class="hrl 1321B44AC1CB464248431321B4CC454ACB1E4AC1431ECB45431E4B46444443C143494243C21E4143CBCC4343491EC2CBC1434A47C21E4A494B1E45464C4548464C45CBC23F4A262A26241321B42A articleThumbnail">        <img
-    src="https://via.placeholder.com/77x77"
-    alt="What are the differences between streaks and highlights?">
-<div class="border"><img src="img/border_line.png"></div>
-</span>
+                            <span class="hrl 1321B44AC1CB464248431321B4CC454ACB1E4AC1431ECB45431E4B46444443C143494243C21E4143CBCC4343491EC2CBC1434A47C21E4A494B1E45464C4548464C45CBC23F4A262A26241321B42A articleThumbnail"> 
+                                <a href="/mostRead/index">
+                                <img src="https://via.placeholder.com/77x77"
+                                     alt="What are the differences between streaks and highlights?">
+                                <div class="border">
+                                    <img src="img/border_line.png">
+                                </div>
+                            </a>
+                            </span>
                         <div class="articleDescription">
                             <p class="category">
                                 Hair colouring
                             </p>
 
                             <p class="articleTitle">
-                                <a href="/article/what-are-the-differences-between-streaks-and-highlights_a9196/1">
+                                <a href="/mostRead/index">
                                     <span>What are the differences between streaks and highlights?</span>
                                 </a>
                             </p>
@@ -998,36 +1022,44 @@
                     </div>
                     <div class="articlePreview"
                          data-tracking-label="Fine hair: which colours can make it look thicker?">
-<span class="hrl 1321B44AC1CB464248431321B4444649431E454A46C11ECC454642451E424F484FC3C1C21E424A491E4E4A47431E46CB1E484F4F471ECB4546424743C13F4A2A2A2A25211321B42A articleThumbnail">        <img
-    src="https://via.placeholder.com/77x77"
-    alt="Fine hair: which colours can make it look thicker?">
-<div class="border"><img src="img/border_line.png"></div>
-</span>
+                                <span class="hrl 1321B44AC1CB464248431321B4444649431E454A46C11ECC454642451E424F484FC3C1C21E424A491E4E4A47431E46CB1E484F4F471ECB4546424743C13F4A2A2A2A25211321B42A articleThumbnail"> 
+                                    <a href="/mostRead/index">     
+                                    <img src="https://via.placeholder.com/77x77"
+                                                alt="Fine hair: which colours can make it look thicker?">
+                                        <div class="border">
+                                            <img src="img/border_line.png">
+                                        </div>
+                                    </a> 
+                                </span>
                         <div class="articleDescription">
                             <p class="category">
                                 Fine hair
                             </p>
 
                             <p class="articleTitle">
-                                <a href="/article/fine-hair-which-colours-can-make-it-look-thicker_a11182/1">
+                                <a href="/mostRead/index">
                                     <span>Fine hair: which colours can make it look thicker?</span>
                                 </a>
                             </p>
                         </div>
                     </div>
                     <div class="articlePreview" data-tracking-label="How to use styling mousse">
-<span class="hrl 1321B44AC1CB464248431321B4454FCC1ECB4F1EC3C2431EC2CBC64846494C1E4E4FC3C2C2433F4A212B22221321B42A articleThumbnail">        <img
-    src="https://via.placeholder.com/77x77"
-    alt="How to use styling mousse">
-<div class="border"><img src="img/border_line.png"></div>
-</span>
+                            <span class="hrl 1321B44AC1CB464248431321B4454FCC1ECB4F1EC3C2431EC2CBC64846494C1E4E4FC3C2C2433F4A212B22221321B42A articleThumbnail">    
+                                <a href="/mostRead/index">
+                                        <img src="https://via.placeholder.com/77x77"
+                                                            alt="How to use styling mousse">
+                                    <div class="border">
+                                        <img src="img/border_line.png">
+                                    </div>
+                                </a>
+                            </span>
                         <div class="articleDescription">
                             <p class="category">
                                 Hairstyle
                             </p>
 
                             <p class="articleTitle">
-                                <a href="/article/how-to-use-styling-mousse_a2433/1">
+                                <a href="/mostRead/index">
                                     <span>How to use styling mousse</span>
                                 </a>
                             </p>
@@ -1035,18 +1067,22 @@
                     </div>
                     <div class="articlePreview"
                          data-tracking-label="How can I keep my hair looking wavy after braiding?">
-<span class="hrl 1321B44AC1CB464248431321B4454FCC1E424A491E461E474343C01E4EC61E454A46C11E484F4F4746494C1ECC4AC4C61E4A44CB43C11E41C14A464B46494C3F4A242421251321B42A articleThumbnail">        <img
-    src="https://via.placeholder.com/77x77"
-    alt="How can I keep my hair looking wavy after braiding?">
-<div class="border"><img src="img/border_line.png"></div>
-</span>
+                            <span class="hrl 1321B44AC1CB464248431321B4454FCC1E424A491E461E474343C01E4EC61E454A46C11E484F4F4746494C1ECC4AC4C61E4A44CB43C11E41C14A464B46494C3F4A242421251321B42A articleThumbnail">     
+                                  <a href="/mostRead/index">
+                                    <img src="https://via.placeholder.com/77x77"
+                                            alt="How can I keep my hair looking wavy after braiding?">
+                                        <div class="border">
+                                            <img src="img/border_line.png">
+                                        </div>
+                                    </a>
+                            </span>
                         <div class="articleDescription">
                             <p class="category">
                                 Hairstyle
                             </p>
 
                             <p class="articleTitle">
-                                <a href="/article/how-can-i-keep-my-hair-looking-wavy-after-braiding_a6628/1">
+                                <a href="/mostRead/index">
                                     <span>How can I keep my hair looking wavy after braiding?</span>
                                 </a>
                             </p>

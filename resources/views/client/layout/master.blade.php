@@ -1478,7 +1478,7 @@
                             </div>
                         </li>
                         <li class="leftborder">
-                            <a href="/tag/men_t44/1"
+                            <a href="/home/trand"
                                class="navItem tracking-click" data-tracking-label="Men">Men</a>
 
                             <div class="bridge"></div>

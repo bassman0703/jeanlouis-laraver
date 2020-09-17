@@ -34,3 +34,11 @@ Route::get('/mostRead/index', function () {
 Route::get('/mostRead/detail', function () {
     return view('client.mostRead.detail');
 });
+
+Route::get('/trand/index', function () {
+    return view('client.trand.index');
+});
+
+Route::get('/trand/detail', function () {
+    return view('client.trand.detail');
+});

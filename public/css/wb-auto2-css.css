@@ -7923,7 +7923,7 @@ body.shp #shopBlock h2, body.shp #shopBlock .h2 {
 }
 
 .quote {
-    background-image: url(web/skins/images/striped.jpg);
+    background-image: url(/img/striped.jpg);
     display: inline-block;
     min-height: 615px;
     position: relative

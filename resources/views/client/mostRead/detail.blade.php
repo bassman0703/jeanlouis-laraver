@@ -158,7 +158,7 @@
                                         <div class="articleBlock1 hpArticleBlock" data-index="0"
                                             data-tracking-label="Colouring treatments from the Crazy About JLD Collection">
                                             <a class=" _hrl"
-                                                href="/article/colouring-treatments-from-the-crazy-about-jld-collection_a13600/1">
+                                                href="/news/newsDetail">
                                                 <picture>
                                                     <source media="(max-width: 640px)"
                                                         srcset="https://via.placeholder.com/342x240">
@@ -170,7 +170,7 @@
                                             </a>
                                             <div class="infoBlock">
                                                 <div class="typeInfo">Hair colouring</div>
-                                                <a href="/article/colouring-treatments-from-the-crazy-about-jld-collection_a13600/1"
+                                                <a href="/news/newsDetail"
                                                     class="title">Colouring treatments from the Crazy About JLD
                                                     Collection</a>
 
@@ -185,7 +185,7 @@
                                             <div class="table">
                                                 <div class="tableCell">
                                                     <a class=" _hrl"
-                                                        href="/article/how-can-i-adopt-the-short-haircut-from-the-jld-spring-summer-2016-collection_a9982/1">
+                                                        href="/mostRead/detail">
                                                         <div class="borderBlock">
                                                             <picture>
                                                                 <source media="(max-width: 640px)"
@@ -221,7 +221,7 @@
                                             <div class="table">
                                                 <div class="tableCell">
                                                     <a class=" _hrl"
-                                                        href="/article/spring-summer-2014-colour-trend-platinum-blonde_a5928/1">
+                                                        href="/mostRead/detail">
                                                         <div class="borderBlock">
                                                             <picture>
                                                                 <source media="(max-width: 640px)"
@@ -240,7 +240,7 @@
                                                         Hair colouring
 
                                                     </div>
-                                                    <a href="/article/spring-summer-2014-colour-trend-platinum-blonde_a5928/1"
+                                                    <a href="/mostRead/detail"
                                                         class="title">Spring-Summer 2014 colour trend: platinum blonde</a>
 
                                                     <p>Often associated with hairstyles worn by Hollywood starlets on the
@@ -256,7 +256,7 @@
                                             <div class="table">
                                                 <div class="tableCell">
                                                     <a class=" _hrl"
-                                                        href="/article/womens-hair-trends-to-watch-for-spring-summer-2014_a5613/1">
+                                                        href="/mostRead/detail">
                                                         <div class="borderBlock">
                                                             <picture>
                                                                 <source media="(max-width: 640px)"
@@ -275,7 +275,7 @@
                                                         Hairstyle
 
                                                     </div>
-                                                    <a href="/article/womens-hair-trends-to-watch-for-spring-summer-2014_a5613/1"
+                                                    <a href="/mostRead/detail"
                                                         class="title">Women’s hair trends to watch for spring-summer
                                                         2014</a>
 

@@ -161,7 +161,7 @@
                                         <div class="articleBlock1 hpArticleBlock" data-index="0"
                                             data-tracking-label="Colouring treatments from the Crazy About JLD Collection">
                                             <a class=" _hrl"
-                                                href="/article/colouring-treatments-from-the-crazy-about-jld-collection_a13600/1">
+                                                href="/news/newsDetail">
                                                 <picture>
                                                     <source media="(max-width: 640px)"
                                                         srcset="https://via.placeholder.com/342x240">
@@ -173,7 +173,7 @@
                                             </a>
                                             <div class="infoBlock">
                                                 <div class="typeInfo">Hair colouring</div>
-                                                <a href="/article/colouring-treatments-from-the-crazy-about-jld-collection_a13600/1"
+                                                <a href="/news/newsDetail"
                                                     class="title">Colouring treatments from the Crazy About JLD
                                                     Collection</a>
 

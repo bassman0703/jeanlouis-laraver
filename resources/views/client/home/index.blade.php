@@ -383,21 +383,29 @@
             <div class="sidebarWrap">
                 <div class="singleBanner">
                     <div class="item special">
+                      
                         <span target="_self" class="hrl 1321B4CB4A4C1321B44E43493FCB2B2B1321B42A">
-                            <picture>
-                                <source media="(max-width: 640px)"
-                                    srcset="img/20869934-0-20869934-2020-03-jld-website-maj-home-push-homme-455x370-343x303-1.jpg">
-                                <source media="(max-width: 1023px)"
-                                    srcset="img/20869934-0-20869934-2020-03-jld-website-maj-home-push-homme-455x370-402x215-1.jpg">
-                                <img src="https://via.placeholder.com/455x370" alt=""> </picture>
-
+                             <a href="/trand/index">
+                                <picture>
+                                    <source media="(max-width: 640px)"
+                                        srcset="img/20869934-0-20869934-2020-03-jld-website-maj-home-push-homme-455x370-343x303-1.jpg">
+                                    <source media="(max-width: 1023px)"
+                                        srcset="img/20869934-0-20869934-2020-03-jld-website-maj-home-push-homme-455x370-402x215-1.jpg">
+                                    <img src="https://via.placeholder.com/455x370" alt="">
+                                </picture>
+                            
                             <div class="textBanner">
                                 <div class="info">Trends</div>
                                 <div class="text">Men</div>
                             </div>
-                            <span target="_self" class="hrl 1321B4CB4A4C1321B44E43493FCB2B2B1321B42A buttonGold"> Discover
+                        </a>
+                        <a href="/trand/index">
+                            <span target="_self" class="hrl 1321B4CB4A4C1321B44E43493FCB2B2B1321B42A buttonGold"> 
+                               Discover 
                             </span>
-                        </span></div>
+                        </a>
+                        </span>
+                    </div>
                 </div>
                 <div class="wrap tracking-click-parent hpArticles" data-tracking-category="Les plus lus"
                     data-tracking-action="Clic articles">
