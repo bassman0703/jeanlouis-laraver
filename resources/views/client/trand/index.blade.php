@@ -2,8 +2,8 @@
 
 
 @section('title', 'Page Title')
-@section('body-class','shp')
-    
+@section('body-class', 'shp')
+
 @section('content')
 
     <div class="stickyBookingButton">
@@ -116,15 +116,13 @@
         <div class="titledNews shpNewsCol2">
             <div class="articleBlock1 hpArticleBlock"
                 data-tracking-label="Men: the influence of the fifties on the Spring-Summer 2020 hairstyles">
-                <a class=" _hrl"
-                    href="/trand/detail">
+                <a class=" _hrl" href="/trand/detail">
                     <img src="https://via.placeholder.com/371x240"
                         alt="Men: the influence of the fifties on the Spring-Summer 2020 hairstyles">
                 </a>
                 <div class="infoBlock">
                     <div class="typeInfo">Men</div>
-                    <a href="/trand/detail"
-                        class="title">Men: the influence of the fifties on the Spring-Summer...</a>
+                    <a href="/trand/detail" class="title">Men: the influence of the fifties on the Spring-Summer...</a>
 
                     <p>Gentlemen, this summer is the time to say goodbye to bohemian styles, rock looks and man buns.
                         Now Jean Louis David's Spring-Summer collection injects a touch of 1950s sophistication and
@@ -145,7 +143,7 @@
                                         <img src="https://via.placeholder.com/170x151"
                                             alt="Men: 3 secrets to having healthy hair">
 
-                                        <div class="border"><img src="/web/skins/images/border_line.png"></div>
+                                        <div class="border"><img src="/img/border_line.png"></div>
                                     </div>
                                 </a> </div>
                             <div class="infoBlock">
@@ -167,7 +165,7 @@
                                         <img src="https://via.placeholder.com/170x151"
                                             alt="3 haircut ideas to conceal baldness">
 
-                                        <div class="border"><img src="/web/skins/images/border_line.png"></div>
+                                        <div class="border"><img src="/img/border_line.png"></div>
                                     </div>
                                 </a> </div>
                             <div class="infoBlock">
@@ -186,10 +184,9 @@
                             <div class="tableCell">
                                 <a class=" _hrl" href="/article/men-how-to-tame-thick-hair_a13475/1">
                                     <div class="borderBlock">
-                                        <img src="https://via.placeholder.com/170x151"
-                                            alt="Men: how to tame thick hair?">
+                                        <img src="https://via.placeholder.com/170x151" alt="Men: how to tame thick hair?">
 
-                                        <div class="border"><img src="/web/skins/images/border_line.png"></div>
+                                        <div class="border"><img src="/img/border_line.png"></div>
                                     </div>
                                 </a> </div>
                             <div class="infoBlock">
@@ -212,9 +209,7 @@
 
             <div class="col colPhoto">
                 <a href="https://www.jeanlouisdavid.us/collections/spring-summer-collection_t46/1">
-                    <img class=""
-                        src="https://via.placeholder.com/420x300"
-                        alt="">
+                    <img class="" src="https://via.placeholder.com/420x300" alt="">
 
                     <div class="photoBadge">
                         <p class="title">Crazy About JLD</p>
@@ -238,7 +233,9 @@
                                     <img src="https://via.placeholder.com/170x151"
                                         alt="Men: is it possible to use something other than gel?">
 
-                                    <div class="border"><img src="/img/border_line.png"></div>
+                                    <div class="border">
+                                        <img src="/img/border_line.png">
+                                    </div>
                                 </div>
                             </a> </div>
                         <div class="infoBlock">
@@ -302,8 +299,7 @@
                         <div class="tableCell">
                             <a class=" _hrl" href="/article/blow-drying-for-men_a13009/1">
                                 <div class="borderBlock">
-                                    <img src="https://via.placeholder.com/170x151"
-                                        alt="Blow-drying - for men!">
+                                    <img src="https://via.placeholder.com/170x151" alt="Blow-drying - for men!">
 
                                     <div class="border"><img src="/img/border_line.png"></div>
                                 </div>
@@ -390,9 +386,8 @@
                                                     class="hrl 1321B4C0C14F4BC342CBC21321B4424F49CBC14F481ECB4543C14AC0C61EC2454A4EC04F4F3FC022231321B42A popUp"
                                                     target="_blank">
                                                     <p>Discover it</p>
-                                                </span> <img
-                                                    src="https://via.placeholder.com/53x18"
-                                                    class="productLogo" alt="">
+                                                </span> <img src="https://via.placeholder.com/53x18" class="productLogo"
+                                                    alt="">
                                                 <div class="border"></div>
                                             </a></div>
                                         <div class="carousel-block slick-slide slick-cloned" data-slick-index="-1"
@@ -411,16 +406,14 @@
                                         <div class="carousel-block slick-slide slick-active" data-slick-index="0"
                                             aria-hidden="false" style="width: 205px;">
                                             <a class=" _hrl" href="/products/control-smoothing-mask_p217/1"> <img
-                                                    src="https://via.placeholder.com/63x200"
-                                                    alt="<p class=&quot;Grillemoyenne21&quot;>Controlled Straightening: thanks to its silk protein agents and cotton oil, this shampoo-accompanying mask prolongs the effect of the Liss Therapy Rituel to obtain maximum hair strength. It provides hair with softness and shine. The hair regains its slick silky feel, styling is made easy, and its volume and kinks are brought under control for longer periods of time.</p>
-        <p class=&quot;Grillemoyenne21&quot;>200ml</p>" class="thumb">
+                                                    src="https://via.placeholder.com/63x200" alt="<p class=&quot;Grillemoyenne21&quot;>Controlled Straightening: thanks to its silk protein agents and cotton oil, this shampoo-accompanying mask prolongs the effect of the Liss Therapy Rituel to obtain maximum hair strength. It provides hair with softness and shine. The hair regains its slick silky feel, styling is made easy, and its volume and kinks are brought under control for longer periods of time.</p>
+            <p class=&quot;Grillemoyenne21&quot;>200ml</p>" class="thumb">
                                                 <span
                                                     class="hrl 1321B4C0C14F4BC342CBC21321B4424F49CBC14F481EC24E4F4FCB4546494C1E4E4AC2473FC0212A2C1321B42A popUp"
                                                     target="_blank">
                                                     <p>Discover it</p>
-                                                </span> <img
-                                                    src="https://via.placeholder.com/53x18"
-                                                    class="productLogo" alt="">
+                                                </span> <img src="https://via.placeholder.com/53x18" class="productLogo"
+                                                    alt="">
                                                 <div class="border"></div>
                                             </a></div>
                                         <div class="carousel-block slick-slide slick-active" data-slick-index="1"
@@ -433,9 +426,8 @@
                                                     class="hrl 1321B4C0C14F4BC342CBC21321B44E4F46C2CBC3C1431E4A494B1E48464C45CB4943C2C21EC2454A4EC04F4F3FC0231321B42A popUp"
                                                     target="_blank">
                                                     <p>Discover it</p>
-                                                </span> <img
-                                                    src="https://via.placeholder.com/53x18"
-                                                    class="productLogo" alt="">
+                                                </span> <img src="https://via.placeholder.com/53x18" class="productLogo"
+                                                    alt="">
                                                 <div class="border"></div>
                                             </a></div>
                                         <div class="carousel-block slick-slide" data-slick-index="2" aria-hidden="true"
@@ -448,9 +440,8 @@
                                                     class="hrl 1321B4C0C14F4BC342CBC21321B442C3C1481E4B4344464946CB464F491E48434AC4431E46491ECBC1434ACB4E4349CB3FC02C231321B42A popUp"
                                                     target="_blank">
                                                     <p>Discover it</p>
-                                                </span> <img
-                                                    src="https://via.placeholder.com/53x18"
-                                                    class="productLogo" alt="">
+                                                </span> <img src="https://via.placeholder.com/53x18" class="productLogo"
+                                                    alt="">
                                                 <div class="border"></div>
                                             </a></div>
                                         <div class="carousel-block slick-slide" data-slick-index="3" aria-hidden="true"
@@ -476,9 +467,8 @@
                                                     class="hrl 1321B4C0C14F4BC342CBC21321B4424F49CBC14F481ECB4543C14AC0C61EC2454A4EC04F4F3FC022231321B42A popUp"
                                                     target="_blank">
                                                     <p>Discover it</p>
-                                                </span> <img
-                                                    src="https://via.placeholder.com/53x18"
-                                                    class="productLogo" alt="">
+                                                </span> <img src="https://via.placeholder.com/53x18" class="productLogo"
+                                                    alt="">
                                                 <div class="border"></div>
                                             </a></div>
                                         <div class="carousel-block slick-slide" data-slick-index="5" aria-hidden="true"
@@ -497,16 +487,14 @@
                                         <div class="carousel-block slick-slide slick-cloned" data-slick-index="6"
                                             aria-hidden="true" style="width: 205px;">
                                             <a class=" _hrl" href="/products/control-smoothing-mask_p217/1"> <img
-                                                    src="https://via.placeholder.com/63x200"
-                                                    alt="<p class=&quot;Grillemoyenne21&quot;>Controlled Straightening: thanks to its silk protein agents and cotton oil, this shampoo-accompanying mask prolongs the effect of the Liss Therapy Rituel to obtain maximum hair strength. It provides hair with softness and shine. The hair regains its slick silky feel, styling is made easy, and its volume and kinks are brought under control for longer periods of time.</p>
-        <p class=&quot;Grillemoyenne21&quot;>200ml</p>" class="thumb">
+                                                    src="https://via.placeholder.com/63x200" alt="<p class=&quot;Grillemoyenne21&quot;>Controlled Straightening: thanks to its silk protein agents and cotton oil, this shampoo-accompanying mask prolongs the effect of the Liss Therapy Rituel to obtain maximum hair strength. It provides hair with softness and shine. The hair regains its slick silky feel, styling is made easy, and its volume and kinks are brought under control for longer periods of time.</p>
+            <p class=&quot;Grillemoyenne21&quot;>200ml</p>" class="thumb">
                                                 <span
                                                     class="hrl 1321B4C0C14F4BC342CBC21321B4424F49CBC14F481EC24E4F4FCB4546494C1E4E4AC2473FC0212A2C1321B42A popUp"
                                                     target="_blank">
                                                     <p>Discover it</p>
-                                                </span> <img
-                                                    src="https://via.placeholder.com/53x18"
-                                                    class="productLogo" alt="">
+                                                </span> <img src="https://via.placeholder.com/53x18" class="productLogo"
+                                                    alt="">
                                                 <div class="border"></div>
                                             </a></div>
                                         <div class="carousel-block slick-slide slick-cloned" data-slick-index="7"
@@ -519,9 +507,8 @@
                                                     class="hrl 1321B4C0C14F4BC342CBC21321B44E4F46C2CBC3C1431E4A494B1E48464C45CB4943C2C21EC2454A4EC04F4F3FC0231321B42A popUp"
                                                     target="_blank">
                                                     <p>Discover it</p>
-                                                </span> <img
-                                                    src="https://via.placeholder.com/53x18"
-                                                    class="productLogo" alt="">
+                                                </span> <img src="https://via.placeholder.com/53x18" class="productLogo"
+                                                    alt="">
                                                 <div class="border"></div>
                                             </a></div>
                                     </div>
@@ -776,9 +763,8 @@
                 <div class="articlePreviewBlock">
                     <div class="articlePreview" data-tracking-label="Men: what hairstyles for men with sticking out ears?">
                         <a class=" articleThumbnail _hrl"
-                            href="/article/men-what-hairstyles-for-ears-that-stick-out_a4948/1"> 
-                            <img
-                                src="https://via.placeholder.com/85x85"
+                            href="/article/men-what-hairstyles-for-ears-that-stick-out_a4948/1">
+                            <img src="https://via.placeholder.com/85x85"
                                 alt="Men: what hairstyles for men with sticking out ears?">
                             <div class="border">
                                 <img src="/img/border_line.png">
@@ -798,8 +784,7 @@
                     </div>
                     <div class="articlePreview" data-tracking-label="Should men’s hair be cut when wet or dry? ">
                         <a class=" articleThumbnail _hrl" href="/article/should-mens-hair-be-cut-when-wet-or-dry_a5503/1">
-                            <img src="https://via.placeholder.com/85x85"
-                                alt="Should men’s hair be cut when wet or dry? ">
+                            <img src="https://via.placeholder.com/85x85" alt="Should men’s hair be cut when wet or dry? ">
                             <div class="border">
                                 <img src="/img/border_line.png">
                             </div>
@@ -818,8 +803,7 @@
                     </div>
                     <div class="articlePreview" data-tracking-label="Men: looking after a 3-day beard">
                         <a class=" articleThumbnail _hrl" href="/article/men-looking-after-a-3-day-beard_a3138/1"> <img
-                                src="https://via.placeholder.com/85x85"
-                                alt="Men: looking after a 3-day beard">
+                                src="https://via.placeholder.com/85x85" alt="Men: looking after a 3-day beard">
                             <div class="border">
                                 <img src="/img/border_line.png">
                             </div>
@@ -838,8 +822,7 @@
                     </div>
                     <div class="articlePreview" data-tracking-label="Men: how to style your hair with glasses">
                         <a class=" articleThumbnail _hrl" href="/article/men-how-to-style-your-hair-with-glasses_a3998/1">
-                            <img src="https://via.placeholder.com/85x85"
-                                alt="Men: how to style your hair with glasses">
+                            <img src="https://via.placeholder.com/85x85" alt="Men: how to style your hair with glasses">
                             <div class="border">
                                 <img src="/img/border_line.png">
                             </div>
@@ -858,8 +841,7 @@
                     </div>
                     <div class="articlePreview" data-tracking-label="Haircuts for men with mid-length hair">
                         <a class=" articleThumbnail _hrl" href="/article/haircuts-for-men-with-mid-length-hair_a4643/1">
-                            <img src="https://via.placeholder.com/85x85"
-                                alt="Haircuts for men with mid-length hair">
+                            <img src="https://via.placeholder.com/85x85" alt="Haircuts for men with mid-length hair">
                             <div class="border">
                                 <img src="/img/border_line.png">
                             </div>
@@ -878,8 +860,7 @@
                     </div>
                     <div class="articlePreview" data-tracking-label="Guys: how to style your hair with a hat">
                         <a class=" articleThumbnail _hrl" href="/article/guys-how-to-style-your-hair-with-a-hat_a6428/1">
-                            <img src="https://via.placeholder.com/85x85"
-                                alt="Guys: how to style your hair with a hat">
+                            <img src="https://via.placeholder.com/85x85" alt="Guys: how to style your hair with a hat">
                             <div class="border">
                                 <img src="/img/border_line.png">
                             </div>
@@ -898,8 +879,7 @@
                     </div>
                     <div class="articlePreview" data-tracking-label="Alain Delon’s hairstyle makes a comeback!">
                         <a class=" articleThumbnail _hrl" href="/article/alain-delons-hairstyle-makes-a-comeback_a6028/1">
-                            <img src="https://via.placeholder.com/85x85"
-                                alt="Alain Delon’s hairstyle makes a comeback!">
+                            <img src="https://via.placeholder.com/85x85" alt="Alain Delon’s hairstyle makes a comeback!">
                             <div class="border">
                                 <img src="/img/border_line.png">
                             </div>
@@ -919,8 +899,7 @@
                     <div class="articlePreview" data-tracking-label="Men: hair breakage, our advice for treating it">
                         <a class=" articleThumbnail _hrl"
                             href="/article/men-hair-breakage-our-advice-for-treating-it_a11749/1">
-                             <img
-                                src="https://via.placeholder.com/85x85"
+                            <img src="https://via.placeholder.com/85x85"
                                 alt="Men: hair breakage, our advice for treating it">
                             <div class="border">
                                 <img src="/img/border_line.png">
@@ -940,8 +919,7 @@
                     </div>
                     <div class="articlePreview" data-tracking-label="Men: 4 hairstyles to rock the dandy look">
                         <a class=" articleThumbnail _hrl" href="/article/men-4-hairstyles-to-rock-the-dandy-look_a11839/1">
-                            <img src="https://via.placeholder.com/85x85"
-                                alt="Men: 4 hairstyles to rock the dandy look">
+                            <img src="https://via.placeholder.com/85x85" alt="Men: 4 hairstyles to rock the dandy look">
                             <div class="border">
                                 <img src="/img/border_line.png">
                             </div>

@@ -48,7 +48,7 @@
             <script type="text/javascript" src="{{ asset('/js/wb-auto2-js.js') }}"></script>
 
     </head>
-    <body id="tag_46" class="en_US @yield('body-class')">
+    <body id="tag_46" class="en_US @yield('body-class') newDesign">
 <!-- End comScore Tag -->
 <div class="barber__link">
     <a href="https://reservations.jeanlouisdavid.com">
@@ -883,7 +883,7 @@
                     <img src="img/1928-masque1-article_thumbnail_small-1.jpg"
                          alt="How to apply a hair mask correctly"/>
 
-                    <div class="border"><img src="img/border_line.png"></div>
+                    <div class="border"><img src="/img/border_line.png"></div>
                 </div>
             </span></div>
                                                 <div class="infoBlock">
@@ -906,7 +906,7 @@
                     <img src="img/6178-sem01-conseil-roux-article_thumbnail_small-1.jpg"
                          alt="What’s the difference between red and strawberry blonde hair?"/>
 
-                    <div class="border"><img src="img/border_line.png"></div>
+                    <div class="border"><img src="/img/border_line.png"></div>
                 </div>
             </span></div>
                                                 <div class="infoBlock">

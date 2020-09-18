@@ -149,7 +149,7 @@
                                         <div class="articleBlock1 hpArticleBlock" data-index="0"
                                             data-tracking-label="Men: what are the on trend haircuts from the JLD Spring-Summer 2016 Collection?">
                                             <a class=" _hrl"
-                                                href="/article/men-what-are-the-on-trend-haircuts-from-the-jld-spring-summer-2016-collection_a10012/1">
+                                                href="/trand/topic">
                                                 <picture>
                                                     <source media="(max-width: 640px)"
                                                         srcset="https://via.placeholder.com/342x240">
@@ -161,7 +161,7 @@
                                             </a>
                                             <div class="infoBlock">
                                                 <div class="typeInfo">Hairstyle</div>
-                                                <a href="/article/men-what-are-the-on-trend-haircuts-from-the-jld-spring-summer-2016-collection_a10012/1"
+                                                <a href="/trand/topic"
                                                     class="title">Men: what are the on trend haircuts from the JLD...</a>
 
                                                 <p>Gentlemen, do you wish to boost your look by changing your hairstyle?

@@ -417,7 +417,7 @@
                             <span class="hrl 1321B44AC1CB464248431321B4454FCC1ECB4F1E4AC0C048C61E4A1E454A46C11E4E4AC2471E424FC1C14342CB48C63F4A262B251321B42A articleThumbnail">
                                 <a href="/mostRead/index">>    
                                     <img src="https://via.placeholder.com/85x85" alt="How to apply a hair mask correctly">
-                                    <div class="border"><img src="img/border_line.png"></div>
+                                    <div class="border"><img src="/img/border_line.png"></div>
                                 
                           </a>  
                         </span>

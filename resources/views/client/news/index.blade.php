@@ -2,8 +2,10 @@
 
 
 @section('title', 'Page Title')
+@section('title', ' article-page')
 
 @section('content')
+
 
 
 

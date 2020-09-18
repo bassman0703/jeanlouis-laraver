@@ -607,10 +607,13 @@
                             <div class="articlePreviewBlock">
                                 <div class="articlePreview" data-tracking-label="How to apply a hair mask correctly">
                                     <a class=" articleThumbnail _hrl"
-                                        href="/article/how-to-apply-a-hair-mask-correctly_a948/1"> <img
+                                        href="/mostRead/index">
+                                         <img
                                             src="https://via.placeholder.com/85x85"
                                             alt="How to apply a hair mask correctly">
-                                        <div class="border"><img src="/img/border_line.png"></div>
+                                        <div class="border">
+                                            <img src="/img/border_line.png">
+                                        </div>
                                     </a>
                                     <div class="articleDescription">
                                         <p class="category">
@@ -618,7 +621,7 @@
                                         </p>
 
                                         <p class="articleTitle">
-                                            <a href="/article/how-to-apply-a-hair-mask-correctly_a948/1">
+                                            <a href="/mostRead/index">
                                                 <span>How to apply a hair mask correctly</span>
                                             </a>
                                         </p>
@@ -627,7 +630,7 @@
                                 <div class="articlePreview"
                                     data-tracking-label="What’s the difference between red and strawberry blonde hair?">
                                     <a class=" articleThumbnail _hrl"
-                                        href="/article/whats-the-difference-between-red-and-strawberry-blonde-hair_a5198/1">
+                                        href="/mostRead/index">
                                         <img src="https://via.placeholder.com/85x85"
                                             alt="What’s the difference between red and strawberry blonde hair?">
                                         <div class="border"><img src="/img/border_line.png"></div>
@@ -639,7 +642,7 @@
 
                                         <p class="articleTitle">
                                             <a
-                                                href="/article/whats-the-difference-between-red-and-strawberry-blonde-hair_a5198/1">
+                                                href="/mostRead/index">
                                                 <span>What’s the difference between red and strawberry blonde...</span>
                                             </a>
                                         </p>
@@ -647,10 +650,12 @@
                                 </div>
                                 <div class="articlePreview" data-tracking-label="How to hold your style without hairspray">
                                     <a class=" articleThumbnail _hrl"
-                                        href="/article/how-to-hold-your-style-without-hairspray_a5133/1"> <img
-                                            src="https://via.placeholder.com/85x85"
-                                            alt="How to hold your style without hairspray">
-                                        <div class="border"><img src="/img/border_line.png"></div>
+                                        href="/mostRead/index">
+                                         <img src="https://via.placeholder.com/85x85"
+                                                alt="How to hold your style without hairspray">
+                                        <div class="border">
+                                            <img src="/img/border_line.png">
+                                        </div>
                                     </a>
                                     <div class="articleDescription">
                                         <p class="category">
@@ -658,7 +663,7 @@
                                         </p>
 
                                         <p class="articleTitle">
-                                            <a href="/article/how-to-hold-your-style-without-hairspray_a5133/1">
+                                            <a href="/mostRead/index">
                                                 <span>How to hold your style without hairspray</span>
                                             </a>
                                         </p>
@@ -667,10 +672,12 @@
                                 <div class="articlePreview"
                                     data-tracking-label="What are the differences between streaks and highlights?">
                                     <a class=" articleThumbnail _hrl"
-                                        href="/article/what-are-the-differences-between-streaks-and-highlights_a9196/1">
+                                        href="/mostRead/index">
                                         <img src="https://via.placeholder.com/85x85"
                                             alt="What are the differences between streaks and highlights?">
-                                        <div class="border"><img src="/img/border_line.png"></div>
+                                        <div class="border">
+                                            <img src="/img/border_line.png">
+                                        </div>
                                     </a>
                                     <div class="articleDescription">
                                         <p class="category">
@@ -679,7 +686,7 @@
 
                                         <p class="articleTitle">
                                             <a
-                                                href="/article/what-are-the-differences-between-streaks-and-highlights_a9196/1">
+                                                href="/mostRead/index">
                                                 <span>What are the differences between streaks and highlights?</span>
                                             </a>
                                         </p>
@@ -688,10 +695,12 @@
                                 <div class="articlePreview"
                                     data-tracking-label="Fine hair: which colours can make it look thicker?">
                                     <a class=" articleThumbnail _hrl"
-                                        href="/article/fine-hair-which-colours-can-make-it-look-thicker_a11182/1"> <img
-                                            src="https://via.placeholder.com/85x85"
+                                        href="/mostRead/index"> 
+                                        <img src="https://via.placeholder.com/85x85"
                                             alt="Fine hair: which colours can make it look thicker?">
-                                        <div class="border"><img src="/img/border_line.png"></div>
+                                        <div class="border">
+                                            <img src="/img/border_line.png">
+                                        </div>
                                     </a>
                                     <div class="articleDescription">
                                         <p class="category">
@@ -699,17 +708,19 @@
                                         </p>
 
                                         <p class="articleTitle">
-                                            <a href="/article/fine-hair-which-colours-can-make-it-look-thicker_a11182/1">
+                                            <a href="/mostRead/index">
                                                 <span>Fine hair: which colours can make it look thicker?</span>
                                             </a>
                                         </p>
                                     </div>
                                 </div>
                                 <div class="articlePreview" data-tracking-label="How to use styling mousse">
-                                    <a class=" articleThumbnail _hrl" href="/article/how-to-use-styling-mousse_a2433/1">
+                                    <a class=" articleThumbnail _hrl" href="/mostRead/index">
                                         <img src="https://via.placeholder.com/85x85"
                                             alt="How to use styling mousse">
-                                        <div class="border"><img src="/img/border_line.png"></div>
+                                        <div class="border">
+                                            <img src="/img/border_line.png">
+                                        </div>
                                     </a>
                                     <div class="articleDescription">
                                         <p class="category">
@@ -717,7 +728,7 @@
                                         </p>
 
                                         <p class="articleTitle">
-                                            <a href="/article/how-to-use-styling-mousse_a2433/1">
+                                            <a href="/mostRead/index">
                                                 <span>How to use styling mousse</span>
                                             </a>
                                         </p>
@@ -726,10 +737,13 @@
                                 <div class="articlePreview"
                                     data-tracking-label="How can I keep my hair looking wavy after braiding?">
                                     <a class=" articleThumbnail _hrl"
-                                        href="/article/how-can-i-keep-my-hair-looking-wavy-after-braiding_a6628/1"> <img
+                                        href="/mostRead/index">
+                                         <img
                                             src="https://via.placeholder.com/85x85"
                                             alt="How can I keep my hair looking wavy after braiding?">
-                                        <div class="border"><img src="/img/border_line.png"></div>
+                                        <div class="border">
+                                            <img src="/img/border_line.png">
+                                        </div>
                                     </a>
                                     <div class="articleDescription">
                                         <p class="category">
@@ -737,7 +751,7 @@
                                         </p>
 
                                         <p class="articleTitle">
-                                            <a href="/article/how-can-i-keep-my-hair-looking-wavy-after-braiding_a6628/1">
+                                            <a href="/mostRead/index">
                                                 <span>How can I keep my hair looking wavy after braiding?</span>
                                             </a>
                                         </p>
@@ -746,10 +760,13 @@
                                 <div class="articlePreview"
                                     data-tracking-label="Trimming your baby's hair for the first time">
                                     <a class=" articleThumbnail _hrl"
-                                        href="/article/trimming-your-baby-s-hair-for-the-first-time_a11254/1"> <img
+                                        href="/mostRead/index">
+                                         <img
                                             src="https://via.placeholder.com/85x85"
                                             alt="Trimming your baby's hair for the first time">
-                                        <div class="border"><img src="/img/border_line.png"></div>
+                                        <div class="border">
+                                            <img src="/img/border_line.png">
+                                        </div>
                                     </a>
                                     <div class="articleDescription">
                                         <p class="category">
@@ -757,7 +774,7 @@
                                         </p>
 
                                         <p class="articleTitle">
-                                            <a href="/article/trimming-your-baby-s-hair-for-the-first-time_a11254/1">
+                                            <a href="/mostRead/index">
                                                 <span>Trimming your baby's hair for the first time</span>
                                             </a>
                                         </p>
@@ -766,10 +783,12 @@
                                 <div class="articlePreview"
                                     data-tracking-label="Why your fringe gets greasy quickly and how to avoid it">
                                     <a class=" articleThumbnail _hrl"
-                                        href="/article/why-your-fringe-gets-greasy-quickly-and-how-to-avoid-it_a2963/1">
+                                        href="/mostRead/index">
                                         <img src="https://via.placeholder.com/85x85"
                                             alt="Why your fringe gets greasy quickly and how to avoid it">
-                                        <div class="border"><img src="/img/border_line.png"></div>
+                                        <div class="border">
+                                            <img src="/img/border_line.png">
+                                        </div>
                                     </a>
                                     <div class="articleDescription">
                                         <p class="category">
@@ -778,7 +797,7 @@
 
                                         <p class="articleTitle">
                                             <a
-                                                href="/article/why-your-fringe-gets-greasy-quickly-and-how-to-avoid-it_a2963/1">
+                                                href="/mostRead/index">
                                                 <span>Why your fringe gets greasy quickly and how to avoid it</span>
                                             </a>
                                         </p>
