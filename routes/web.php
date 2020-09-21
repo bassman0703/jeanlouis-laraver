@@ -50,3 +50,15 @@ Route::get('/lastest/index', function () {
 Route::get('/trand/topic', function () {
     return view('client.trand.topic');
 });
+
+Route::get('/about/index', function () {
+    return view('client.about.index');
+});
+
+Route::get('/team/index', function () {
+    return view('client.team.index');
+});
+
+Route::get('/team/detail', function () {
+    return view('client.team.detail');
+});

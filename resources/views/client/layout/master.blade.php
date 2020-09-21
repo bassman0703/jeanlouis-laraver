@@ -449,10 +449,10 @@
                     </ul>
                     <ul class="subMenuStyleGolden">
                         <li>
-                            <i class="fa icon-arrow"></i> <a href="/brand"
-                                                             class="navItem tracking-click"
-                                                             data-tracking-label="Our Brand">Our Brand</a>
-
+                            <i class="fa icon-arrow"></i> 
+                            <a href="/brand"
+                            class="navItem tracking-click"                               
+                            data-tracking-label="Our Brand">Our Brand</a>
                             <div class="bridge"></div>
                             <div class="subMenu" data-tracking-action="Clic sous-rubriques">
                                 <div class="subMenuTextBlock clearfix">
@@ -463,72 +463,36 @@
                                     </div>
                                     <div class="subMenuCol">
                                         <div class="standardTitle">
-                                            <a href="/hair-salon/find-your-hairdresser"
+                                            <a href="/about/index"
                                                data-tracking-label="Find your salon"
                                                class="tracking-click">About Us</a>
                                         </div>
                                     </div>
                                     <div class="subMenuCol">
                                         <div class="standardTitle">
-                                            <a href="/brand/our-dna"
+                                            <a href="/about/index"
                                                data-tracking-label="Our DNA"
                                                class="tracking-click">History </a>
                                         </div>
                                     </div>
                                     <div class="subMenuCol">
                                         <div class="standardTitle">
-                                            <a href="/experts"
+                                            <a href="/team/index"
                                                data-tracking-label="Our Experts"
                                                class="tracking-click">Our Team </a>
                                         </div>
                                     </div>
                                     <div class="subMenuCol">
                                         <div class="standardTitle">
-                                            <a href="/tag/news_t70/1"
+                                            <a href="/news/detail"
                                                data-tracking-label="Our News"
                                                class="tracking-click">Blog</a>
                                         </div>
                                     </div>
 
                                 </div>
-                                <div class="subMenuNewsTitle">
-                                    Do not miss
-                                </div>
-                                <div class="subMenuNewsBlock">
-                                    <div class="articleWrap">
-                                        <div class="articleBlock2 " data-tracking-label="Our DNA">
-                                            <div class="table">
-                                                <div class="tableCell">
-                                    <span class="hrl 1321B44AC1CB464248431321B44FC3C11E4B494A3F4A2223221321B42A">                <div
-                                            class="borderBlock">
-                    <img src="https://static1.jeanlouisdavid.us/articles/3/35/3/@/9750-jean-louis-david-hair-salon-article_thumbnail_small-1.jpg"
-                         alt="Our DNA"/>
-
-                    <div class="border"><img
-                            src="img/9750-jean-louis-david-hair-salon-article_thumbnail_small-1.jpg"></div>
-                </div>
-            </span></div>
-                                                <div class="infoBlock">
-                                                    <div class="typeInfo">
-                                                        Our brand
-
-                                                    </div>
-                                                    <a href="/article/our-dna_a353/1" class="title">Our DNA</a>
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="mediaNews">
-                                            <span class="hrl 1321B44AC1CB464248431321B44B4343C048C61E45C64BC14ACB431EC64FC3C11E484F4247C21ECC46CB451ECB45431E48464C45CBCC43464C45CB1E4F46481ECB4543C14AC0C61E424F48484342CB464F493F4A242621221321B42A advertImgWrap">    <img
-                                                    class="advertImg"
-                                                    src="img/5424880-0-2015-05-jld-slide-service-exclu-oil-therapy-uk-orig-1.jpg"
-                                                    alt="Deeply hydrate your locks with the lightweight Oil Therapy collection">
-    <div class="imgOver">
-        <p>Deeply hydrate your locks with the lightweight Oil Therapy collection</p>
-            </div>
-</span></div>
-                                </div>
+                               
+                                
                             </div>
                         </li>
                         <li>
@@ -573,67 +537,24 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="subMenuNewsTitle">
-                                    Do not miss
-                                </div>
+                                
                                 <div class="subMenuNewsBlock">
                                     <div class="articleWrap">
-                                        <div class="articleBlock2 " data-tracking-label="The Hippie Seventies haircut">
+                                            
+                                       
+                                       
+                                             
                                             <div class="table">
                                                 <div class="tableCell">
-                                    <span class="hrl 1321B44AC1CB464248431321B4CB45431E4546C0C046431EC243C44349CB4643C21E454A46C142C3CB3F4A2A2A242B261321B42A">                <div
-                                            class="borderBlock">
-                    <img src="img/15324-sleek-blow-dry-styling-enhances-this-lay-article_thumbnail_small-2.jpg"
-                         alt="The Hippie Seventies haircut"/>
-
-                    <div class="border"><img src="img/border_line.png"></div>
-                </div>
-            </span></div>
-                                                <div class="infoBlock">
-                                                    <div class="typeInfo">
-                                                        Collections
-
-                                                    </div>
-                                                    <a href="/article/the-hippie-seventies-haircut_a11649/1"
-                                                       class="title">The Hippie Seventies haircut</a>
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="articleBlock2 "
-                                             data-tracking-label="Jean Louis David&#039;s on-trend looks for spring-summer 2015">
-                                            <div class="table">
-                                                <div class="tableCell">
-                                    <span class="hrl 1321B44AC1CB464248431321B44D434A491E484FC346C21E4B4AC4464BC21E4F491ECBC143494B1E484F4F47C21E444FC11EC2C0C146494C1EC2C34E4E43C11E21202A233F4A252A2A221321B42A">                <div
-                                            class="borderBlock">
-                    <img src="img/9093-semaine11-conseils-coiffurestendances-article_thumbnail_small-1.jpg"
-                         alt="Jean Louis David&#039;s on-trend looks for spring-summer 2015"/>
-
-                    <div class="border"><img src="img/border_line.png"></div>
-                </div>
-            </span></div>
-                                                <div class="infoBlock">
-                                                    <div class="typeInfo">
-                                                        Collections
-
-                                                    </div>
-                                                    <a href="/article/jean-louis-davids-on-trend-looks-for-spring-summer-2015_a8113/1"
-                                                       class="title">Jean Louis David's on-trend looks for spring-summer
-                                                        2015</a>
-
-                                                </div>
-                                            </div>
+                                    <span class="hrl 1321B44AC1CB464248431321B44D434A491E484FC346C21E4B4AC4464BC21E4F491ECBC143494B1E484F4F47C21E444FC11EC2C0C146494C1EC2C34E4E43C11E21202A233F4A252A2A221321B42A">              
+                                     
+            </span>
+        </div>
+                                           
+                                            
                                         </div>
                                     </div>
-                                    <div class="mediaNews">
-                                            <span class="hrl 1321B44AC1CB464248431321B4C2C043434B1E41C3491EC2CBC648431E4E431E4A1E41C3493F4A2A212B26211321B42A advertImgWrap">    <img
-                                                    class="advertImg"
-                                                    src="img/16705100-0-16705100-2018-11-jld-site-maj-vignettes-bas-focus-605x300-fr-orig-1.jpg"
-                                                    alt="Speed Up-Do, style me a bun !">
-    <div class="imgOver">
-        <p>Speed Up-Do, style me a bun !</p>
-            </div>
-</span></div>
+                                   
                                 </div>
                             </div>
                         </li>
@@ -772,68 +693,23 @@
                                         </ul>
                                     </div>
                                 </div>
-                                <div class="subMenuNewsTitle">
-                                    Do not miss
-                                </div>
+                                
                                 <div class="subMenuNewsBlock">
                                     <div class="articleWrap">
-                                        <div class="articleBlock2 "
-                                             data-tracking-label="Jean Louis David Style Bar: the end of bad hair days!">
                                             <div class="table">
                                                 <div class="tableCell">
-                                    <span class="hrl 1321B44AC1CB464248431321B44D434A491E484FC346C21E4B4AC4464B1EC2CBC648431E414AC11ECB45431E43494B1E4F441E414A4B1E454A46C11E4B4AC6C23F4A232C23251321B42A">                <div
-                                            class="borderBlock">
-                    <img src="img/9900-xwv-article_thumbnail_small-1.jpg"
-                         alt="Jean Louis David Style Bar: the end of bad hair days!"/>
-
-                    <div class="border"><img src="img/border_line.png"></div>
+                                    <span class="hrl 1321B44AC1CB464248431321B4C2C043434B1E41C1C3C2451EC2CBC648431E4E431EC2CBC14A464C45CB3F4A232520251321B42A">         
+                                               <div
+                                            class="borderBlock">                                
                 </div>
             </span></div>
-                                                <div class="infoBlock">
-                                                    <div class="typeInfo">
-                                                        Exclusive Services
-
-                                                    </div>
-                                                    <a href="/article/jean-louis-david-style-bar-the-end-of-bad-hair-days_a5758/1"
-                                                       class="title">Jean Louis David Style Bar: the end of bad hair
-                                                        days!</a>
-
-                                                </div>
+                                                
                                             </div>
-                                        </div>
-                                        <div class="articleBlock2 "
-                                             data-tracking-label="Speed Brush: style me straight!">
-                                            <div class="table">
-                                                <div class="tableCell">
-                                    <span class="hrl 1321B44AC1CB464248431321B4C2C043434B1E41C1C3C2451EC2CBC648431E4E431EC2CBC14A464C45CB3F4A232520251321B42A">                <div
-                                            class="borderBlock">
-                    <img src="img/9895-qsc-article_thumbnail_small-1.jpg"
-                         alt="Speed Brush: style me straight!"/>
-
-                    <div class="border"><img src="img/border_line.png"></div>
-                </div>
-            </span></div>
-                                                <div class="infoBlock">
-                                                    <div class="typeInfo">
-                                                        Exclusive Services
-
-                                                    </div>
-                                                    <a href="/article/speed-brush-style-me-straight_a5808/1"
-                                                       class="title">Speed Brush: style me straight!</a>
-
-                                                </div>
-                                            </div>
-                                        </div>
+                                        
                                     </div>
                                     <div class="mediaNews">
-                                            <span class="hrl 1321B44AC1CB464248431321B4C2C043434B1E41C3491EC2CBC648431E4E431E4A1E41C3493F4A2A212B26211321B42A advertImgWrap">    <img
-                                                    class="advertImg"
-                                                    src="img/16705205-0-16705205-2018-11-jld-site-maj-vignettes-bas-focus-605x300-fr-orig-1.jpg"
-                                                    alt="Speed Up-Do, style me a bun !">
-    <div class="imgOver">
-        <p>Speed Up-Do, style me a bun !</p>
-            </div>
-</span></div>
+                                            
+                                    </div>
                                 </div>
                             </div>
                         </li>
@@ -869,77 +745,20 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="subMenuNewsTitle">
-                                    Do not miss
-                                </div>
+                                
                                 <div class="subMenuNewsBlock">
-                                    <div class="articleWrap">
-                                        <div class="articleBlock2 "
-                                             data-tracking-label="How to apply a hair mask correctly">
-                                            <div class="table">
-                                                <div class="tableCell">
-                                    <span class="hrl 1321B44AC1CB464248431321B4454FCC1ECB4F1E4AC0C048C61E4A1E454A46C11E4E4AC2471E424FC1C14342CB48C63F4A262B251321B42A">                <div
-                                            class="borderBlock">
-                    <img src="img/1928-masque1-article_thumbnail_small-1.jpg"
-                         alt="How to apply a hair mask correctly"/>
-
-                    <div class="border"><img src="/img/border_line.png"></div>
-                </div>
-            </span></div>
-                                                <div class="infoBlock">
-                                                    <div class="typeInfo">
-                                                        Experts
-
-                                                    </div>
-                                                    <a href="/article/how-to-apply-a-hair-mask-correctly_a948/1"
-                                                       class="title">How to apply a hair mask correctly</a>
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="articleBlock2 "
-                                             data-tracking-label="What’s the difference between red and strawberry blonde hair?">
-                                            <div class="table">
-                                                <div class="tableCell">
-                                    <span class="hrl 1321B44AC1CB464248431321B4CC454ACBC21ECB45431E4B46444443C1434942431E4143CBCC4343491EC1434B1E4A494B1EC2CBC14ACC4143C1C1C61E41484F494B431E454A46C13F4A232A26251321B42A">                <div
-                                            class="borderBlock">
-                    <img src="img/6178-sem01-conseil-roux-article_thumbnail_small-1.jpg"
-                         alt="What’s the difference between red and strawberry blonde hair?"/>
-
-                    <div class="border"><img src="/img/border_line.png"></div>
-                </div>
-            </span></div>
-                                                <div class="infoBlock">
-                                                    <div class="typeInfo">
-                                                        Experts
-
-                                                    </div>
-                                                    <a href="/article/whats-the-difference-between-red-and-strawberry-blonde-hair_a5198/1"
-                                                       class="title">What’s the difference between red and strawberry
-                                                        blonde hair?</a>
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="mediaNews">
-                                            <span class="hrl 1321B44AC1CB464248431321B44A1E42484FC243C11E484F4F471E4ACB1ECB45431E4C4F1E424F484FC11EC14A494C433F4A2A222220201321B42A advertImgWrap">    <img
-                                                    class="advertImg"
-                                                    src="img/16705097-0-16705097-2018-08-jld-slide-service-exclu-605x300-go-color-fr-orig-1.jpg"
-                                                    alt="A closer look at the GO COLOR range">
-    <div class="imgOver">
-        <p>A closer look at the GO COLOR range</p>
-            </div>
-</span></div>
+                                   
+                                    
                                 </div>
                             </div>
                         </li>
                     </ul>
                     <ul class="subMenuStyleWhite">
                         <li class="leftborder">
-                            <i class="fa icon-arrow"></i> <a href="/tag/hairstyle_t1/1"
-                                                             class="navItem tracking-click"
-                                                             data-tracking-label="Hairstyle">Hairstyle</a>
+                            <i class="fa icon-arrow"></i> 
+                            <a href="/tag/hairstyle_t1/1"                              
+                            class="navItem tracking-click"                           
+                            data-tracking-label="Hairstyle">Hairstyle</a>
 
                             <div class="bridge"></div>
                             <div class="subMenu" data-tracking-action="Clic sous-rubriques">
@@ -1040,66 +859,11 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="subMenuNewsTitle">
-                                    Do not miss
-                                </div>
+                                
                                 <div class="subMenuNewsBlock">
-                                    <div class="articleWrap">
-                                        <div class="articleBlock2 "
-                                             data-tracking-label="How to hold your style without hairspray">
-                                            <div class="table">
-                                                <div class="tableCell">
-                                    <span class="hrl 1321B44AC1CB464248431321B4454FCC1ECB4F1E454F484B1EC64FC3C11EC2CBC648431ECC46CB454FC3CB1E454A46C1C2C0C14AC63F4A232A22221321B42A">                <div
-                                            class="borderBlock">
-                    <img src="img/6113-sem52-conseil-cheveuxsanslaque-article_thumbnail_small-1.jpg"
-                         alt="How to hold your style without hairspray"/>
-
-                    <div class="border"><img src="img/border_line.png"></div>
-                </div>
-            </span></div>
-                                                <div class="infoBlock">
-                                                    <div class="typeInfo">
-                                                        Hairstyle
-
-                                                    </div>
-                                                    <a href="/article/how-to-hold-your-style-without-hairspray_a5133/1"
-                                                       class="title">How to hold your style without hairspray</a>
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="articleBlock2 " data-tracking-label="How to use styling mousse">
-                                            <div class="table">
-                                                <div class="tableCell">
-                                    <span class="hrl 1321B44AC1CB464248431321B4454FCC1ECB4F1EC3C2431EC2CBC64846494C1E4E4FC3C2C2433F4A212B22221321B42A">                <div
-                                            class="borderBlock">
-                    <img src="img/3413-bien-utiliser-sa-mousse-coiffante-article_thumbnail_small-1.jpg"
-                         alt="How to use styling mousse"/>
-
-                    <div class="border"><img src="img/border_line.png"></div>
-                </div>
-            </span></div>
-                                                <div class="infoBlock">
-                                                    <div class="typeInfo">
-                                                        Hairstyle
-
-                                                    </div>
-                                                    <a href="/article/how-to-use-styling-mousse_a2433/1" class="title">How
-                                                        to use styling mousse</a>
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
+                                    
                                     <div class="mediaNews">
-                                            <span class="hrl 1321B44AC1CB464248431321B4C2C043434B1E41C3491EC2CBC648431E4E431E4A1E41C3493F4A2A212B26211321B42A advertImgWrap">    <img
-                                                    class="advertImg"
-                                                    src="img/16705295-0-16705295-2018-11-jld-site-maj-vignettes-bas-focus-605x300-fr-orig-1.jpg"
-                                                    alt="Speed Up-Do, style me a bun !">
-    <div class="imgOver">
-        <p>Speed Up-Do, style me a bun !</p>
-            </div>
-</span></div>
+                                        </div>
                                 </div>
                             </div>
                         </li>
@@ -1167,70 +931,9 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="subMenuNewsTitle">
-                                    Do not miss
-                                </div>
-                                <div class="subMenuNewsBlock">
-                                    <div class="articleWrap">
-                                        <div class="articleBlock2 "
-                                             data-tracking-label="What are the differences between streaks and highlights?">
-                                            <div class="table">
-                                                <div class="tableCell">
-                                    <span class="hrl 1321B44AC1CB464248431321B4CC454ACB1E4AC1431ECB45431E4B46444443C143494243C21E4143CBCC4343491EC2CBC1434A47C21E4A494B1E45464C4548464C45CBC23F4A262A26241321B42A">                <div
-                                            class="borderBlock">
-                    <img src="img/10686-what-are-the-differences-between-article_thumbnail_small-1.jpg"
-                         alt="What are the differences between streaks and highlights?"/>
-
-                    <div class="border"><img src="img/border_line.png"></div>
-                </div>
-            </span></div>
-                                                <div class="infoBlock">
-                                                    <div class="typeInfo">
-                                                        Hair colouring
-
-                                                    </div>
-                                                    <a href="/article/what-are-the-differences-between-streaks-and-highlights_a9196/1"
-                                                       class="title">What are the differences between streaks and
-                                                        highlights?</a>
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="articleBlock2 "
-                                             data-tracking-label="Fine hair: which colours can make it look thicker?">
-                                            <div class="table">
-                                                <div class="tableCell">
-                                    <span class="hrl 1321B44AC1CB464248431321B4444649431E454A46C11ECC454642451E424F484FC3C1C21E424A491E4E4A47431E46CB1E484F4F471ECB4546424743C13F4A2A2A2A25211321B42A">                <div
-                                            class="borderBlock">
-                    <img src="img/14507-find-out-about-a-new-way-making-your-loc-article_thumbnail_small-2.jpg"
-                         alt="Fine hair: which colours can make it look thicker?"/>
-
-                    <div class="border"><img src="img/border_line.png"></div>
-                </div>
-            </span></div>
-                                                <div class="infoBlock">
-                                                    <div class="typeInfo">
-                                                        Hair colouring
-
-                                                    </div>
-                                                    <a href="/article/fine-hair-which-colours-can-make-it-look-thicker_a11182/1"
-                                                       class="title">Fine hair: which colours can make it look
-                                                        thicker?</a>
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="mediaNews">
-                                            <span class="hrl 1321B44AC1CB464248431321B4424F49CBC14AC2CB1E45464C4548464C45CBC21E44C14F4E1E4D434A491E484FC346C21E4B4AC4464B3F4A21242C251321B42A advertImgWrap">    <img
-                                                    class="advertImg"
-                                                    src="img/5424910-0-2015-05-jld-slide-service-exclu-contrast-uk-orig-1.jpg"
-                                                    alt="Contrast highlights from Jean Louis David">
-    <div class="imgOver">
-        <p>Contrast highlights from Jean Louis David</p>
-            </div>
-</span></div>
-                                </div>
+                               
+                               
+                                
                             </div>
                         </li>
                         <li>
@@ -1298,68 +1001,10 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="subMenuNewsTitle">
-                                    Do not miss
-                                </div>
+                               
                                 <div class="subMenuNewsBlock">
-                                    <div class="articleWrap">
-                                        <div class="articleBlock2 "
-                                             data-tracking-label="Why your fringe gets greasy quickly and how to avoid it">
-                                            <div class="table">
-                                                <div class="tableCell">
-                                    <span class="hrl 1321B44AC1CB464248431321B4CC45C61EC64FC3C11E44C146494C431E4C43CBC21E4CC1434AC2C61ECAC346424748C61E4A494B1E454FCC1ECB4F1E4AC44F464B1E46CB3F4A212624221321B42A">                <div
-                                            class="borderBlock">
-                    <img src="img/3943-sem08-conseils-frangeregraisser-article_thumbnail_small-1.jpg"
-                         alt="Why your fringe gets greasy quickly and how to avoid it"/>
-
-                    <div class="border"><img src="img/border_line.png"></div>
-                </div>
-            </span></div>
-                                                <div class="infoBlock">
-                                                    <div class="typeInfo">
-                                                        Hair care
-
-                                                    </div>
-                                                    <a href="/article/why-your-fringe-gets-greasy-quickly-and-how-to-avoid-it_a2963/1"
-                                                       class="title">Why your fringe gets greasy quickly and how to
-                                                        avoid it</a>
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="articleBlock2 "
-                                             data-tracking-label="Greasy roots and dry ends: dos and don&#039;ts">
-                                            <div class="table">
-                                                <div class="tableCell">
-                                    <span class="hrl 1321B44AC1CB464248431321B44CC1434AC2C61EC14F4FCBC21E4A494B1E4BC1C61E43494BC21E4B4FC21E4A494B1E4B4F49CBC23F4A2A2B24221321B42A">                <div
-                                            class="borderBlock">
-                    <img src="img/2443-racines-grasses-pointes-seches-article_thumbnail_small-1.jpg"
-                         alt="Greasy roots and dry ends: dos and don&#039;ts"/>
-
-                    <div class="border"><img src="img/border_line.png"></div>
-                </div>
-            </span></div>
-                                                <div class="infoBlock">
-                                                    <div class="typeInfo">
-                                                        Hair care
-
-                                                    </div>
-                                                    <a href="/article/greasy-roots-and-dry-ends-dos-and-donts_a1463/1"
-                                                       class="title">Greasy roots and dry ends: dos and don'ts</a>
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="mediaNews">
-                                            <span class="hrl 1321B44AC1CB464248431321B44743C14ACB46491ECB4543C14AC0C61E4A1E4D434A491E484FC346C21E4B4AC4464B1E4649494FC44ACB464F493F4A2A2626221321B42A advertImgWrap">    <img
-                                                    class="advertImg"
-                                                    src="img/5425071-0-2015-05-jld-slide-service-exclu-keratin-therapy-uk-orig-1.jpg"
-                                                    alt="Keratin Therapy, a Jean Louis David innovation">
-    <div class="imgOver">
-        <p>Keratin Therapy, a Jean Louis David innovation</p>
-            </div>
-</span></div>
+                                    
+                             
                                 </div>
                             </div>
                         </li>
@@ -1413,68 +1058,7 @@
                                         </ul>
                                     </div>
                                 </div>
-                                <div class="subMenuNewsTitle">
-                                    Do not miss
-                                </div>
-                                <div class="subMenuNewsBlock">
-                                    <div class="articleWrap">
-                                        <div class="articleBlock2 "
-                                             data-tracking-label="How to wear the beret in summer">
-                                            <div class="table">
-                                                <div class="tableCell">
-                                    <span class="hrl 1321B44AC1CB464248431321B4454FCC1ECB4F1ECC434AC11ECB45431E4143C143CB1E46491EC2C34E4E43C13F4A2B2A21251321B42A">                <div
-                                            class="borderBlock">
-                    <img src="img/5108-sem32-tendance-beretete-article_thumbnail_small-1.jpg"
-                         alt="How to wear the beret in summer"/>
-
-                    <div class="border"><img src="img/border_line.png"></div>
-                </div>
-            </span></div>
-                                                <div class="infoBlock">
-                                                    <div class="typeInfo">
-                                                        Styles and trends
-
-                                                    </div>
-                                                    <a href="/article/how-to-wear-the-beret-in-summer_a4128/1"
-                                                       class="title">How to wear the beret in summer</a>
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="articleBlock2 "
-                                             data-tracking-label="How to wear the baseball cap this winter">
-                                            <div class="table">
-                                                <div class="tableCell">
-                                    <span class="hrl 1321B44AC1CB464248431321B4454FCC1ECB4F1ECC434AC11ECB45431E414AC243414A48481E424AC01ECB4546C21ECC4649CB43C13F4A212C24251321B42A">                <div
-                                            class="borderBlock">
-                    <img src="img/3748-la-casquette-comment-la-porter-article_thumbnail_small-1.jpg"
-                         alt="How to wear the baseball cap this winter"/>
-
-                    <div class="border"><img src="img/border_line.png"></div>
-                </div>
-            </span></div>
-                                                <div class="infoBlock">
-                                                    <div class="typeInfo">
-                                                        Styles and trends
-
-                                                    </div>
-                                                    <a href="/article/how-to-wear-the-baseball-cap-this-winter_a2768/1"
-                                                       class="title">How to wear the baseball cap this winter</a>
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="mediaNews">
-                                            <span class="hrl 1321B44AC1CB464248431321B4CB45431E4943CC1EC21ECC4AC4431E4D434A491E484FC346C21E4B4AC4464B1EC24A484F491ECBC1434ACB4E4349CB3F4A232C22251321B42A advertImgWrap">    <img
-                                                    class="advertImg"
-                                                    src="img/5425086-0-2015-05-jld-slide-service-exclu-s-waves-uk-orig-1.jpg"
-                                                    alt="The new S-Wave Jean Louis David salon treatment">
-    <div class="imgOver">
-        <p>The new S-Wave Jean Louis David salon treatment</p>
-            </div>
-</span></div>
-                                </div>
+                          
                             </div>
                         </li>
                         <li class="leftborder">

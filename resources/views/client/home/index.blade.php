@@ -385,7 +385,7 @@
                     <div class="item special">
                       
                         <span target="_self" class="hrl 1321B4CB4A4C1321B44E43493FCB2B2B1321B42A">
-                             <a href="/trand/index">
+                             <a href="/news/detail">
                                 <picture>
                                     <source media="(max-width: 640px)"
                                         srcset="img/20869934-0-20869934-2020-03-jld-website-maj-home-push-homme-455x370-343x303-1.jpg">
@@ -399,7 +399,7 @@
                                 <div class="text">Men</div>
                             </div>
                         </a>
-                        <a href="/trand/index">
+                        <a href="/news/detail">
                             <span target="_self" class="hrl 1321B4CB4A4C1321B44E43493FCB2B2B1321B42A buttonGold"> 
                                Discover 
                             </span>
@@ -498,29 +498,7 @@
                 </div>
             </div>
 
-            <div data-tracking-category="Trouvez votre salon" data-tracking-action="module article"
-                class="article-sidebar__location">
-                <p>This article inspired you? Take action and find your salon <span>Take action and find your salon</span>
-                </p>
-                <div class="article-sidebar__location__toggle">
-
-                    <div class="article-sidebar__location__locator">
-                        <div id="store-locator">
-                            <div class="article-sidebar__location__locator__img"></div>
-
-                            <div class="search-field">
-                                <div id="search-form">
-
-                                    <span
-                                        class="hrl 1321B4454A46C11EC24A484F491321B44446494B1EC64FC3C11E454A46C14BC143C2C243C1 geolocate-btn buttonGold">
-                                        Find your salon Jean Louis David
-                                    </span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            
         </div>
     </div>
 
