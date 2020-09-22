@@ -62,3 +62,31 @@ Route::get('/team/index', function () {
 Route::get('/team/detail', function () {
     return view('client.team.detail');
 });
+
+Route::get('/sumwin-collection/index', function () {
+    return view('client.sumwin-collection.index');
+});
+
+Route::get('/sumwin-collection/detail', function () {
+    return view('client.sumwin-collection.detail');
+});
+
+Route::get('/sumwin-collection/news', function () {
+    return view('client.sumwin-collection.news');
+});
+
+Route::get('/mostRead/more', function () {
+    return view('client.mostRead.more');
+});
+
+Route::get('/sumwin-collection/home', function () {
+    return view('client.sumwin-collection.home');
+});
+
+Route::get('/service/index', function () {
+    return view('client.service.index');
+});
+
+Route::get('/sumwin-collection/backstage', function () {
+    return view('client.sumwin-collection.backstage');
+});

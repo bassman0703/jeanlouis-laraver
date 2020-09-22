@@ -8243,9 +8243,9 @@ body.shp #shopBlock h2, body.shp #shopBlock .h2 {
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00ffffff', endColorstr='#ffffff', GradientType=0)
 }
 
-#quoteBlock .servicesBlock.specialCollection .imgWrap {
+/* #quoteBlock .servicesBlock.specialCollection .imgWrap {
     height: auto
-}
+} */
 
 #quoteBlock .servicesBlock.specialCollection .imgWrap img {
     -webkit-transform: none;

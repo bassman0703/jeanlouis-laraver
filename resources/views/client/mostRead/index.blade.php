@@ -129,7 +129,7 @@
                                         <div class="articleBlock1 hpArticleBlock" data-index="0"
                                             data-tracking-label="Jean Louis David Style Bar: the end of bad hair days!">
                                             <a class=" _hrl"
-                                                href="/article/jean-louis-david-style-bar-the-end-of-bad-hair-days_a5758/1">
+                                                href="/mostRead/index">
                                                 <picture>
                                                     <source media="(max-width: 640px)"
                                                         srcset="https://via.placeholder.com/342x240">
@@ -141,7 +141,7 @@
                                             </a>
                                             <div class="infoBlock">
                                                 <div class="typeInfo">Hairstyle</div>
-                                                <a href="/article/jean-louis-david-style-bar-the-end-of-bad-hair-days_a5758/1"
+                                                <a href="/mostRead/index"
                                                     class="title">Jean Louis David Style Bar: the end of bad hair days!</a>
 
                                                 <p>Party of the year? Meet-up of the century? Huge gathering? Job interview?
@@ -155,7 +155,7 @@
                                             <div class="table">
                                                 <div class="tableCell">
                                                     <a class=" _hrl"
-                                                        href="/article/in-which-order-should-you-use-hair-oils-masks-and-shampoos_a6618/1">
+                                                        href="/mostRead/index">
                                                         <div class="borderBlock">
                                                             <picture>
                                                                 <source media="(max-width: 640px)"
@@ -175,7 +175,7 @@
                                                         Hair care
 
                                                     </div>
-                                                    <a href="/article/in-which-order-should-you-use-hair-oils-masks-and-shampoos_a6618/1"
+                                                    <a href="/mostRead/index"
                                                         class="title">In which order should you use hair oils, masks and
                                                         shampoos?</a>
 
@@ -191,14 +191,14 @@
                                             data-tracking-label="What mask for coloured hair?">
                                             <div class="table">
                                                 <div class="tableCell">
-                                                    <a class=" _hrl" href="/article/what-mask-for-coloured-hair_a4728/1">
+                                                    <a class=" _hrl" href="/mostRead/index">
                                                         <div class="borderBlock">
                                                             <picture>
                                                                 <source media="(max-width: 640px)"
                                                                     srcset="https://via.placeholder.com/85x85">
                                                                 <source media="(max-width: 1023px)"
                                                                     srcset="https://via.placeholder.com/170x150">
-                                                                <img src="htthttps://via.placeholder.com/170x190"
+                                                                <img src="https://via.placeholder.com/170x190"
                                                                     alt="What mask for coloured hair?"> 
                                                             </picture>
                                                                 <div class="border">
@@ -211,7 +211,7 @@
                                                         Hair care
 
                                                     </div>
-                                                    <a href="/article/what-mask-for-coloured-hair_a4728/1"
+                                                    <a href="/mostRead/index"
                                                         class="title">What mask for coloured hair?</a>
 
                                                     <p>Each hair type requires specific upkeep and products. This is
@@ -228,7 +228,7 @@
                                             <div class="table">
                                                 <div class="tableCell">
                                                     <a class=" _hrl"
-                                                        href="/article/masks-for-coloured-hair-advantages-and-optimisation_a1063/1">
+                                                        href="/mostRead/index">
                                                         <div class="borderBlock">
                                                             <picture>
                                                                 <source media="(max-width: 640px)"
@@ -247,7 +247,7 @@
                                                         Hair care
 
                                                     </div>
-                                                    <a href="/article/masks-for-coloured-hair-advantages-and-optimisation_a1063/1"
+                                                    <a href="/mostRead/index"
                                                         class="title">Masks for coloured hair: advantages and
                                                         optimisation</a>
 
@@ -261,98 +261,12 @@
                                         </div>
 
                                     </div>
-                                    <a href="/livenews/1" class="moreNews">More news</a>
+                                    <a href="/mostRead/more" class="moreNews">More news</a>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="colRight clearfix">
-
-                        <div class="colRight--leftCol">
-
-                            <div class="mini-expert">
-                                <div class="mini-expert-title">
-                                    <div class="pre-title">The advice of</div>
-                                    <div class="title-name">LAURA SUPERBI</div>
-                                </div>
-                                <div class="img-expert">
-                                    <img src="https://via.placeholder.com/369x496"
-                                        alt="Laura Superbi - trainer in Paris">
-                                </div>
-                                <a class=" button-mini _hrl" href="/experts/laura-superbi_t76/1">Discover all the advice</a>
-                            </div>
-
-                        </div>
-
-
-                        <div class="blockNews tracking-click-parent" data-tracking-action="Clic articles"
-                            data-tracking-category="Les plus partagés">
-                            <div class="h3">Do not miss</div>
-                            <div class="articlePreviewBlock">
-                                <div class="articlePreview" data-tracking-label="How to use styling mousse">
-                                    <a class=" articleThumbnail _hrl" href="/article/how-to-use-styling-mousse_a2433/1">
-                                        <img src="https://via.placeholder.com/85x85"
-                                            alt="How to use styling mousse">
-                                        <div class="border"><img src="/img/border_line.png"></div>
-                                    </a>
-                                    <div class="articleDescription">
-                                        <p class="category">
-                                            Experts
-                                        </p>
-
-                                        <p class="articleTitle">
-                                            <a href="/article/how-to-use-styling-mousse_a2433/1">
-                                                <span>How to use styling mousse</span>
-                                            </a>
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="articlePreview"
-                                    data-tracking-label="How can I keep my hair looking wavy after braiding?">
-                                    <a class=" articleThumbnail _hrl"
-                                        href="/article/how-can-i-keep-my-hair-looking-wavy-after-braiding_a6628/1"> <img
-                                            src="https://via.placeholder.com/85x85"
-                                            alt="How can I keep my hair looking wavy after braiding?">
-                                        <div class="border"><img src="/img/border_line.png"></div>
-                                    </a>
-                                    <div class="articleDescription">
-                                        <p class="category">
-                                            Experts
-                                        </p>
-
-                                        <p class="articleTitle">
-                                            <a href="/article/how-can-i-keep-my-hair-looking-wavy-after-braiding_a6628/1">
-                                                <span>How can I keep my hair looking wavy after braiding?</span>
-                                            </a>
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="articlePreview"
-                                    data-tracking-label="Why your fringe gets greasy quickly and how to avoid it">
-                                    <a class=" articleThumbnail _hrl"
-                                        href="/article/why-your-fringe-gets-greasy-quickly-and-how-to-avoid-it_a2963/1">
-                                        <img src="https://via.placeholder.com/85x85"
-                                            alt="Why your fringe gets greasy quickly and how to avoid it">
-                                        <div class="border"><img src="/img/border_line.png"></div>
-                                    </a>
-                                    <div class="articleDescription">
-                                        <p class="category">
-                                            Experts
-                                        </p>
-
-                                        <p class="articleTitle">
-                                            <a
-                                                href="/article/why-your-fringe-gets-greasy-quickly-and-how-to-avoid-it_a2963/1">
-                                                <span>Why your fringe gets greasy quickly and how to avoid it</span>
-                                            </a>
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-
-
                         <div class="wrap tracking-click-parent hpArticles" data-tracking-category="Les plus lus"
                             data-tracking-action="Clic articles">
                             <h2>Most read articles</h2>
@@ -361,7 +275,7 @@
                                 <div class="articlePreview"
                                     data-tracking-label="What’s the difference between red and strawberry blonde hair?">
                                     <a class=" articleThumbnail _hrl"
-                                        href="/article/whats-the-difference-between-red-and-strawberry-blonde-hair_a5198/1">
+                                        href="/mostRead/index">
                                         <img src="https://via.placeholder.com/85x85"
                                             alt="What’s the difference between red and strawberry blonde hair?">
                                         <div class="border">
@@ -375,7 +289,7 @@
 
                                         <p class="articleTitle">
                                             <a
-                                                href="/article/whats-the-difference-between-red-and-strawberry-blonde-hair_a5198/1">
+                                                href="/mostRead/index">
                                                 <span>What’s the difference between red and strawberry blonde...</span>
                                             </a>
                                         </p>
@@ -383,7 +297,7 @@
                                 </div>
                                 <div class="articlePreview" data-tracking-label="How to hold your style without hairspray">
                                     <a class=" articleThumbnail _hrl"
-                                        href="/article/how-to-hold-your-style-without-hairspray_a5133/1">
+                                        href="/mostRead/index">
                                         <img src="https://via.placeholder.com/85x85"
                                             alt="How to hold your style without hairspray">
                                         <div class="border">
@@ -396,7 +310,7 @@
                                         </p>
 
                                         <p class="articleTitle">
-                                            <a href="/article/how-to-hold-your-style-without-hairspray_a5133/1">
+                                            <a href="/mostRead/index">
                                                 <span>How to hold your style without hairspray</span>
                                             </a>
                                         </p>
@@ -405,7 +319,7 @@
                                 <div class="articlePreview"
                                     data-tracking-label="What are the differences between streaks and highlights?">
                                     <a class=" articleThumbnail _hrl"
-                                        href="/article/what-are-the-differences-between-streaks-and-highlights_a9196/1">
+                                        href="/mostRead/index">
                                         <img src="https://via.placeholder.com/85x85"
                                             alt="What are the differences between streaks and highlights?">
                                         <div class="border">
@@ -419,7 +333,7 @@
 
                                         <p class="articleTitle">
                                             <a
-                                                href="/article/what-are-the-differences-between-streaks-and-highlights_a9196/1">
+                                                href="/mostRead/index">
                                                 <span>What are the differences between streaks and highlights?</span>
                                             </a>
                                         </p>
@@ -428,7 +342,7 @@
                                 <div class="articlePreview"
                                     data-tracking-label="Fine hair: which colours can make it look thicker?">
                                     <a class=" articleThumbnail _hrl"
-                                        href="/article/fine-hair-which-colours-can-make-it-look-thicker_a11182/1"> 
+                                        href="/mostRead/index"> 
                                         <img src="https://via.placeholder.com/85x85"
                                             alt="Fine hair: which colours can make it look thicker?">
                                         <div class="border">
@@ -441,7 +355,7 @@
                                         </p>
 
                                         <p class="articleTitle">
-                                            <a href="/article/fine-hair-which-colours-can-make-it-look-thicker_a11182/1">
+                                            <a href="/mostRead/index">
                                                 <span>Fine hair: which colours can make it look thicker?</span>
                                             </a>
                                         </p>
@@ -452,72 +366,7 @@
 
                     </div>
 
-                    <div id="expertBlock" class="article-version">
-                        <div class="wide78">
-                            <div class="grids clearfix">
-                                <div class="col">
-                                    <div class="boxExper">
-                                        <h2>
-                                            <div class="border">
-                                                <span>Expert</span>
-                                                <div class="br">Jean Louis David</div>
-                                            </div>
-                                        </h2>
-                                        <div class="titleName">LAURA SUPERBI</div>
-                                        <div class="info">Trainer in Paris</div>
-                                        <div class="imgExpert">
-                                            <img src="https://via.placeholder.com/369x496"
-                                                alt="Laura Superbi - trainer in Paris">
-                                        </div>
-                                        <a class=" buttonBlack _hrl" href="/experts/laura-superbi_t76/1">Discover</a>
-                                    </div>
-                                </div>
-                                <div class="col">
-                                    <div id="adviceExperts">
-                                        <div class="wide78 transparentBack overflowHidden">
-                                            <h2>Last advices</h2>
-                                            <div class="adviceCarousel clearfix" data-count="2" data-offset="0">
-                                                <div class="advice" data-tracking-label="Help, my hair colour won't hold!">
-                                                    <a class=" _hrl"
-                                                        href="/article/help-my-hair-colour-won-t-hold_a10671/1">
-                                                        <div class="carousel-block">
-                                                            <div class="blockGradient">
-                                                                <img class="grayscale"
-                                                                    src="https://via.placeholder.com/271x231"
-                                                                    alt="Help, my hair colour won't hold!">
-                                                                <div class="gradient"></div>
-                                                            </div>
-                                                            <a class="title"
-                                                                href="/article/help-my-hair-colour-won-t-hold_a10671/1">
-                                                                <span>Help,my hair colour won't hold!</span></a>
-                                                        </div>
-                                                    </a></div>
-                                                <div class="advice"
-                                                    data-tracking-label="Curly hair: how can I make it glossy?">
-                                                    <a class=" _hrl"
-                                                        href="/article/curly-hair-how-can-i-make-it-glossy_a10585/1">
-                                                        <div class="carousel-block">
-                                                            <div class="blockGradient">
-                                                                <img class="grayscale"
-                                                                    src="https://via.placeholder.com/271x231"
-                                                                    alt="Curly hair: how can I make it glossy?">
-
-                                                                <div class="gradient"></div>
-                                                            </div>
-                                                            <a class="title"
-                                                                href="/article/curly-hair-how-can-i-make-it-glossy_a10585/1">
-                                                                <span>Curly hair: how can I make it glossy?</span>
-                                                            </a>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                    
                 </div>
             </div>
         </div>

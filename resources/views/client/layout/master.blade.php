@@ -450,7 +450,7 @@
                     <ul class="subMenuStyleGolden">
                         <li>
                             <i class="fa icon-arrow"></i> 
-                            <a href="/brand"
+                            <a href="/"
                             class="navItem tracking-click"                               
                             data-tracking-label="Our Brand">Our Brand</a>
                             <div class="bridge"></div>
@@ -496,9 +496,8 @@
                             </div>
                         </li>
                         <li>
-                            <i class="fa icon-arrow"></i> <a href="/collections"
-                                                             class="navItem tracking-click"
-                                                             data-tracking-label="Our Collections">Our Collections</a>
+                            <i class="fa icon-arrow"></i>
+                             <a href="/sumwin-collection/home"data-tracking-label="Our Collections">Our Collections</a>
 
                             <div class="bridge"></div>
                             <div class="subMenu" data-tracking-action="Clic sous-rubriques">
@@ -510,28 +509,28 @@
                                     </div>
                                     <div class="subMenuCol">
                                         <div class="standardTitle">
-                                            <a href="/collections/spring-summer-collection_t46/1"
+                                            <a href="/sumwin-collection/index"
                                                data-tracking-label="Spring - Summer Collection"
                                                class="tracking-click">Spring - Summer Collection</a>
                                         </div>
                                     </div>
                                     <div class="subMenuCol">
                                         <div class="standardTitle">
-                                            <a href="/collections/autumn-winter-collection_t47/1"
+                                            <a href="/sumwin-collection/index"
                                                data-tracking-label="Autumn - Winter Collection"
                                                class="tracking-click">Autumn - Winter Collection</a>
                                         </div>
                                     </div>
                                     <div class="subMenuCol">
                                         <div class="standardTitle">
-                                            <a href="https://www.jeanlouisdavid.us/backstages/of-the-spring-summer-collection_t105/1"
+                                            <a href="/sumwin-collection/backstage"
                                                data-tracking-label="Backstages of the Spring-Summer collection"
                                                class="tracking-click">Backstages of the Spring-Summer collection</a>
                                         </div>
                                     </div>
                                     <div class="subMenuCol">
                                         <div class="standardTitle">
-                                            <a href="http://www.jeanlouisdavid.us/backstages/of-the-autumn-winter-collection_t100/1"
+                                            <a href="/sumwin-collection/backstage"
                                                data-tracking-label="Backstages of the Autumn-Winter collection"
                                                class="tracking-click">Backstages of the Autumn-Winter collection</a>
                                         </div>
@@ -559,9 +558,10 @@
                             </div>
                         </li>
                         <li>
-                            <i class="fa icon-arrow"></i> <a href="/services"
-                                                             class="navItem tracking-click"
-                                                             data-tracking-label="Our Exclusive Services">Our Exclusive
+                            <i class="fa icon-arrow"></i>
+                             <a href="/service/index"
+                              class="navItem tracking-click"
+                              data-tracking-label="Our Exclusive Services">Our Exclusive
                             Services</a>
 
                             <div class="bridge"></div>
