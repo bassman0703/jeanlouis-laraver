@@ -538,22 +538,13 @@
                                 </div>
                                 
                                 <div class="subMenuNewsBlock">
-                                    <div class="articleWrap">
-                                            
-                                       
-                                       
-                                             
+                                    <div class="articleWrap">    
                                             <div class="table">
                                                 <div class="tableCell">
-                                    <span class="hrl 1321B44AC1CB464248431321B44D434A491E484FC346C21E4B4AC4464BC21E4F491ECBC143494B1E484F4F47C21E444FC11EC2C0C146494C1EC2C34E4E43C11E21202A233F4A252A2A221321B42A">              
-                                     
-            </span>
-        </div>
-                                           
-                                            
+                                                    <span class="hrl 1321B44AC1CB464248431321B44D434A491E484FC346C21E4B4AC4464BC21E4F491ECBC143494B1E484F4F47C21E444FC11EC2C0C146494C1EC2C34E4E43C11E21202A233F4A252A2A221321B42A"></span>
+                                                </div>         
                                         </div>
                                     </div>
-                                   
                                 </div>
                             </div>
                         </li>
@@ -698,25 +689,22 @@
                                     <div class="articleWrap">
                                             <div class="table">
                                                 <div class="tableCell">
-                                    <span class="hrl 1321B44AC1CB464248431321B4C2C043434B1E41C1C3C2451EC2CBC648431E4E431EC2CBC14A464C45CB3F4A232520251321B42A">         
-                                               <div
-                                            class="borderBlock">                                
-                </div>
-            </span></div>
-                                                
+                                                    <span class="hrl 1321B44AC1CB464248431321B4C2C043434B1E41C1C3C2451EC2CBC648431E4E431EC2CBC14A464C45CB3F4A232520251321B42A">         
+                                                <div class="borderBlock"></div>
+                                                    </span>
+                                                </div>       
                                             </div>
-                                        
                                     </div>
-                                    <div class="mediaNews">
-                                            
+                                    <div class="mediaNews">      
                                     </div>
                                 </div>
                             </div>
                         </li>
                         <li>
-                            <i class="fa icon-arrow"></i> <a href="/products"
-                                                             class="navItem tracking-click"
-                                                             data-tracking-label="Our Products">Our Products</a>
+                            <i class="fa icon-arrow"></i> 
+                            <a href="/product/index"
+                                class="navItem tracking-click"
+                                data-tracking-label="Our Products">Our Products</a>
 
                             <div class="bridge"></div>
                             <div class="subMenu" data-tracking-action="Clic sous-rubriques">
@@ -728,7 +716,7 @@
                                     </div>
                                     <div class="subMenuCol">
                                         <div class="standardTitle">
-                                            <a href="/products/range/urban-care_g10/1"
+                                            <a href="/product/home"
                                                data-tracking-label="Urban Care"
                                                class="tracking-click">
                                                 Hair List of product suppliers
@@ -737,7 +725,7 @@
                                     </div>
                                     <div class="subMenuCol">
                                         <div class="standardTitle">
-                                            <a href="/products/range/urban-style_g20/1"
+                                            <a href="/product/home"
                                                data-tracking-label="Urban Style"
                                                class="tracking-click">
                                                 Body&Face List of Products

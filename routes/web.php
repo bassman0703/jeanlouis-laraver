@@ -90,3 +90,23 @@ Route::get('/service/index', function () {
 Route::get('/sumwin-collection/backstage', function () {
     return view('client.sumwin-collection.backstage');
 });
+
+Route::get('/product/index', function () {
+    return view('client.product.index');
+});
+
+Route::get('/product/home', function () {
+    return view('client.product.home');
+});
+
+Route::get('/product/detail', function () {
+    return view('client.product.detail');
+});
+
+Route::get('/product/moreDetail', function () {
+    return view('client.product.moreDetail');
+});
+
+Route::get('/service/detail', function () {
+    return view('client.service.detail');
+});

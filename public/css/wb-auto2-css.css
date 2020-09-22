@@ -5781,7 +5781,7 @@ a.buttonView:hover {
 
 .page_productline .description_wrapper {
     position: relative;
-    background: url(web/skins/images/striped_repeat.png) repeat;
+    background: url(/img/striped_repeat.png) repeat;
     padding: 150px 130px;
     font-family: 'Lato', sans-serif;
     color: #3d3d3d;
@@ -6062,8 +6062,8 @@ a.buttonView:hover {
 .page_product .blockSocial.grids .iconContainer, .page_product .blockSocial.grids .label {
     display: block;
     float: left;
-    padding-right: 15px;
-    padding-left: 15px
+    /* padding-right: 15px; */
+    padding-left: 10px
 }
 
 .page_product .blockSocial.grids .fontAwesome {
@@ -6071,13 +6071,13 @@ a.buttonView:hover {
 }
 
 .page_product .blockSocial.grids .iconContainer {
-    padding-right: 19px;
+    padding-right: 16px;
     padding-top: 22px
 }
 
 .page_product .blockSocial.grids .label {
-    padding-left: 35px;
-    padding-top: 17px;
+    /* padding-left: 35px;
+    padding-top: 17px; */
     font-family: 'Playfair Display', serif;
     font-size: 28px
 }

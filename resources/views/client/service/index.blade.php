@@ -109,7 +109,7 @@
                     <div class="imgWrap">
                         <img src="https://via.placeholder.com/370x226" alt="Style Bar">
                         <div class="buttonWrap">
-                            <a class="buttonGold" href="/services/style-bar_t50/1" "="">Style Bar</a>
+                            <a class="buttonGold" href="/service/detail" "="">Style Bar</a>
                                 </div>
                             </div>
                             <div class=" text">
@@ -149,7 +149,7 @@
                         <div class="imgWrap">
                             <img src="https://via.placeholder.com/370x226" alt="Lightening">
                             <div class="buttonWrap">
-                                <a class="buttonGold" href="/services/lightening_t54/1" "="">Lightening</a>
+                                <a class="buttonGold" href="/service/detail" "="">Lightening</a>
                                     </div>
                                 </div>
                                     <div class=" text">
@@ -164,7 +164,7 @@
                             <div class="imgWrap">
                                 <img src="https://via.placeholder.com/370x226" alt="Colour">
                                 <div class="buttonWrap">
-                                    <a class="buttonGold" href="/services/colour_t59/1" "="">Colour</a>
+                                    <a class="buttonGold" href="/service/detail" "="">Colour</a>
                                         </div>
                                     </div>
                                         <div class=" text">
@@ -178,7 +178,7 @@
                                 <div class="imgWrap">
                                     <img src="https://via.placeholder.com/370x226" alt="Care Ritual">
                                     <div class="buttonWrap">
-                                        <a class="buttonGold" href="/services/care-ritual_t62/1" "="">Care Ritual</a>
+                                        <a class="buttonGold" href="/service/detail" "="">Care Ritual</a>
                                             </div>
                                         </div>
                                             <div class=" text">
@@ -196,7 +196,7 @@
                                     <div class="imgWrap">
                                         <img src="https://via.placeholder.com/370x226" alt="Form">
                                         <div class="buttonWrap">
-                                            <a class="buttonGold" href="/services/form_t67/1" "="">Form</a>
+                                            <a class="buttonGold" href="/service/detail" "="">Form</a>
                                                 </div>
                                             </div>
                                                 <div class=" text">
