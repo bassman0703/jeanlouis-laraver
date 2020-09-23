@@ -2886,7 +2886,7 @@ nav ul li .bridge {
 .subMenuStyleWhite .leftborder {
     margin-left: 0;
     padding-left: 10px;
-    border-left: 1px solid #000
+    /* border-left: 1px solid #000 */
 }
 
 .subMenuStyleWhite .subMenu {
@@ -30023,7 +30023,7 @@ body.shp #sideBarBlock .content {
     font-size: 43px;
     line-height: 47px;
     margin: 25px 5% 35px 0;
-    text-align: left
+    text-align: center
 }
 
 .newDesign.article-page .colCenter .content p:first-of-type:first-letter {

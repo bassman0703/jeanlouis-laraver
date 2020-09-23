@@ -744,317 +744,39 @@
                     <ul class="subMenuStyleWhite">
                         <li class="leftborder">
                             <i class="fa icon-arrow"></i> 
-                            <a href="/tag/hairstyle_t1/1"                              
+                            <a href="/price/index"                              
                             class="navItem tracking-click"                           
-                            data-tracking-label="Hairstyle">Hairstyle</a>
-
+                            data-tracking-label="Hairstyle">Price List</a>
                             <div class="bridge"></div>
-                            <div class="subMenu" data-tracking-action="Clic sous-rubriques">
+                            <div data-tracking-action="Clic sous-rubriques">
                                 <div class="subMenuTextBlock clearfix">
                                     <div class="subMenuCol mobileOnly back">
                                         <div class="standardTitle">
                                             <p>Back</p>
                                         </div>
                                     </div>
-                                    <div class="subMenuCol">
-                                        <div class="standardTitle">
-                                            <p>Must-have hairstyles</p>
-                                        </div>
-                                        <ul>
-                                            <li>
-                                                <a href="/tag/chignon_t3/1"
-                                                   data-tracking-label="Chignon"
-                                                   class="tracking-click">Chignon</a>
-                                            </li>
-                                            <li>
-                                                <a href="/tag/braid_t2/1"
-                                                   data-tracking-label="Braid"
-                                                   class="tracking-click">Braid</a>
-                                            </li>
-                                            <li>
-                                                <a href="/tag/ponytail_t4/1"
-                                                   data-tracking-label="Ponytail"
-                                                   class="tracking-click">Ponytail</a>
-                                            </li>
-                                            <li>
-                                                <a href="/tag/bob_t10/1"
-                                                   data-tracking-label="Bob"
-                                                   class="tracking-click">Bob</a>
-                                            </li>
-                                            <li>
-                                                <a href="/tag/fringe_t11/1"
-                                                   data-tracking-label="Fringe"
-                                                   class="tracking-click">Fringe</a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                    <div class="subMenuCol">
-                                        <div class="standardTitle">
-                                            <p>Cuts by hair length</p>
-                                        </div>
-                                        <ul>
-                                            <li>
-                                                <a href="/tag/short-hair_t16/1"
-                                                   data-tracking-label="Short hair"
-                                                   class="tracking-click">Short hair</a>
-                                            </li>
-                                            <li>
-                                                <a href="/tag/mid-length-hair_t17/1"
-                                                   data-tracking-label="Mid-length hair"
-                                                   class="tracking-click">Mid-length hair</a>
-                                            </li>
-                                            <li>
-                                                <a href="/tag/long-hair_t18/1"
-                                                   data-tracking-label="Long hair"
-                                                   class="tracking-click">Long hair</a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                    <div class="subMenuCol">
-                                        <div class="standardTitle">
-                                            <a href="/tag/hairstyle-tutorials_t19/1"
-                                               data-tracking-label="Our Hairstyle tutorials"
-                                               class="tracking-click">Our Hairstyle tutorials</a>
-                                        </div>
-                                    </div>
-                                    <div class="subMenuCol">
-                                        <div class="standardTitle">
-                                            <p>Hairstyles</p>
-                                        </div>
-                                        <ul>
-                                            <li>
-                                                <a href="/tag/blow-dry_t20/1"
-                                                   data-tracking-label="Blow-dry"
-                                                   class="tracking-click">Blow-dry</a>
-                                            </li>
-                                            <li>
-                                                <a href="/tag/straightening_t21/1"
-                                                   data-tracking-label="Straightening"
-                                                   class="tracking-click">Straightening</a>
-                                            </li>
-                                            <li>
-                                                <a href="/tag/extensions_t22/1"
-                                                   data-tracking-label="Extensions"
-                                                   class="tracking-click">Extensions</a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                    <div class="subMenuCol">
-                                        <div class="standardTitle">
-                                            <a href="/folders/hairstyle_t1/1"
-                                               data-tracking-label="All the hairstyle folders"
-                                               class="tracking-click">All the hairstyle folders</a>
-                                        </div>
-                                    </div>
                                 </div>
-                                
                                 <div class="subMenuNewsBlock">
-                                    
-                                    <div class="mediaNews">
-                                        </div>
+                                    <div class="mediaNews"></div>
                                 </div>
                             </div>
                         </li>
                         <li>
-                            <i class="fa icon-arrow"></i> <a href="/tag/hair-colouring_t23/1"
-                                                             class="navItem tracking-click"
-                                                             data-tracking-label="Hair Colouring">Hair Colouring</a>
-
+                            <i class="fa icon-arrow"></i> 
+                            <a href="/tag/hair-colouring_t23/1"
+                                 class="navItem tracking-click"
+                                 data-tracking-label="Hair Colouring">Contact</a>
                             <div class="bridge"></div>
-                            <div class="subMenu" data-tracking-action="Clic sous-rubriques">
+                            <div  data-tracking-action="Clic sous-rubriques">
                                 <div class="subMenuTextBlock clearfix">
                                     <div class="subMenuCol mobileOnly back">
                                         <div class="standardTitle">
                                             <p>Back</p>
                                         </div>
                                     </div>
-                                    <div class="subMenuCol">
-                                        <div class="standardTitle">
-                                            <p>Advice by colour type</p>
-                                        </div>
-                                        <ul>
-                                            <li>
-                                                <a href="/tag/blonde-hair-colour_t24/1"
-                                                   data-tracking-label="Blonde hair colour"
-                                                   class="tracking-click">Blonde hair colour</a>
-                                            </li>
-                                            <li>
-                                                <a href="/tag/brown-hair-colour_t25/1"
-                                                   data-tracking-label="Brown hair colour"
-                                                   class="tracking-click">Brown hair colour</a>
-                                            </li>
-                                            <li>
-                                                <a href="/tag/red-hair-colour_t26/1"
-                                                   data-tracking-label="Red hair colour"
-                                                   class="tracking-click">Red hair colour</a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                    <div class="subMenuCol">
-                                        <div class="standardTitle">
-                                            <a href="/tag/highlights_t27/1"
-                                               data-tracking-label="Highlights"
-                                               class="tracking-click">Highlights</a>
-                                        </div>
-                                        <ul>
-                                            <li>
-                                                <a href="/tag/tie-dye_t28/1"
-                                                   data-tracking-label="Tie &amp; dye"
-                                                   class="tracking-click">Tie & dye</a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                    <div class="subMenuCol">
-                                        <div class="standardTitle">
-                                            <a href="/tag/temporary-hair-colour_t29/1"
-                                               data-tracking-label="Temporary hair colour"
-                                               class="tracking-click">Temporary hair colour</a>
-                                        </div>
-                                    </div>
-                                    <div class="subMenuCol">
-                                        <div class="standardTitle">
-                                            <a href="/folders/hair-colouring_t23/1"
-                                               data-tracking-label="All Hair colouring folders"
-                                               class="tracking-click">All Hair colouring folders</a>
-                                        </div>
-                                    </div>
-                                </div>
-                               
-                               
-                                
-                            </div>
-                        </li>
-                        <li>
-                            <i class="fa icon-arrow"></i> <a href="/tag/hair-care_t30/1"
-                                                             class="navItem tracking-click"
-                                                             data-tracking-label="Hair care">Hair care</a>
-
-                            <div class="bridge"></div>
-                            <div class="subMenu" data-tracking-action="Clic sous-rubriques">
-                                <div class="subMenuTextBlock clearfix">
-                                    <div class="subMenuCol mobileOnly back">
-                                        <div class="standardTitle">
-                                            <p>Back</p>
-                                        </div>
-                                    </div>
-                                    <div class="subMenuCol">
-                                        <div class="standardTitle">
-                                            <p>Hair care advice by hair type</p>
-                                        </div>
-                                        <ul>
-                                            <li>
-                                                <a href="/tag/caring-for-curly-hair_t31/1"
-                                                   data-tracking-label="Caring for curly hair"
-                                                   class="tracking-click">Caring for curly hair</a>
-                                            </li>
-                                            <li>
-                                                <a href="/tag/caring-for-frizzy-hair_t32/1"
-                                                   data-tracking-label="Caring for frizzy hair"
-                                                   class="tracking-click">Caring for frizzy hair</a>
-                                            </li>
-                                            <li>
-                                                <a href="/tag/caring-for-coloured-hair_t33/1"
-                                                   data-tracking-label="Caring for coloured hair"
-                                                   class="tracking-click">Caring for coloured hair</a>
-                                            </li>
-                                            <li>
-                                                <a href="/tag/caring-for-dry-hair_t34/1"
-                                                   data-tracking-label="Caring for dry hair"
-                                                   class="tracking-click">Caring for dry hair</a>
-                                            </li>
-                                            <li>
-                                                <a href="/tag/caring-for-greasy-hair_t35/1"
-                                                   data-tracking-label="Caring for greasy hair"
-                                                   class="tracking-click">Caring for greasy hair</a>
-                                            </li>
-                                            <li>
-                                                <a href="/tag/caring-for-grey-hair_t36/1"
-                                                   data-tracking-label="Caring for grey hair"
-                                                   class="tracking-click">Caring for grey hair</a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                    <div class="subMenuCol">
-                                        <div class="standardTitle">
-                                            <a href="/tag/sun-care_t37/1"
-                                               data-tracking-label="Sun care"
-                                               class="tracking-click">Sun care</a>
-                                        </div>
-                                    </div>
-                                    <div class="subMenuCol">
-                                        <div class="standardTitle">
-                                            <a href="/folders/hair-care_t30/1"
-                                               data-tracking-label="All hair care folders"
-                                               class="tracking-click">All hair care folders</a>
-                                        </div>
-                                    </div>
-                                </div>
-                               
-                                <div class="subMenuNewsBlock">
-                                    
-                             
                                 </div>
                             </div>
-                        </li>
-                        <li>
-                            <i class="fa icon-arrow"></i> <a href="/tag/styles-and-trends_t38/1"
-                                                             class="navItem tracking-click"
-                                                             data-tracking-label="Styles &amp; Trends">Styles &
-                            Trends</a>
-
-                            <div class="bridge"></div>
-                            <div class="subMenu" data-tracking-action="Clic sous-rubriques">
-                                <div class="subMenuTextBlock clearfix">
-                                    <div class="subMenuCol mobileOnly back">
-                                        <div class="standardTitle">
-                                            <p>Back</p>
-                                        </div>
-                                    </div>
-                                    <div class="subMenuCol">
-                                        <div class="standardTitle">
-                                            <a href="/tag/trends_t39/1"
-                                               data-tracking-label="Trends 2017/2018"
-                                               class="tracking-click">Trends 2017/2018</a>
-                                        </div>
-                                    </div>
-                                    <div class="subMenuCol">
-                                        <div class="standardTitle">
-                                            <a href="/tag/street-style_t40/1"
-                                               data-tracking-label="Street Style"
-                                               class="tracking-click">Street Style</a>
-                                        </div>
-                                    </div>
-                                    <div class="subMenuCol">
-                                        <div class="standardTitle">
-                                            <a href="/tag/looks-and-accessories_t41/1"
-                                               data-tracking-label="Looks and accessories"
-                                               class="tracking-click">Looks and accessories</a>
-                                        </div>
-                                    </div>
-                                    <div class="subMenuCol">
-                                        <div class="standardTitle">
-                                            <a href="/tag/special-occasion-hairstyles_t42/1"
-                                               data-tracking-label="Special occasion hairstyles"
-                                               class="tracking-click">Special occasion hairstyles</a>
-                                        </div>
-                                        <ul>
-                                            <li>
-                                                <a href="/tag/wedding-hairstyles_t43/1"
-                                                   data-tracking-label="Wedding hairstyles"
-                                                   class="tracking-click">Wedding hairstyles</a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                          
-                            </div>
-                        </li>
-                        <li class="leftborder">
-                            <a href="/home/trand"
-                               class="navItem tracking-click" data-tracking-label="Men">Men</a>
-
-                            <div class="bridge"></div>
-                        </li>
+                        </li>   
                     </ul>
                 </nav>
                 <ul class="iconBar stickyOnly">

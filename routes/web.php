@@ -110,3 +110,11 @@ Route::get('/product/moreDetail', function () {
 Route::get('/service/detail', function () {
     return view('client.service.detail');
 });
+
+Route::get('/service/moreDetail', function () {
+    return view('client.service.moreDetail');
+});
+
+Route::get('/price/index', function () {
+    return view('client.price.index');
+});

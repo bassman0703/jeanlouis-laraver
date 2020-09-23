@@ -2,10 +2,10 @@
 
 
 @section('title', 'Page Title')
-@section('body-class', ' page_product_productline page_productline')
+@section('body-class', ' article-page')
 
 @section('content')
-    <div id="pageContent">
+
         <div class="stickyBookingButton">
             <a href="https://reservations.jeanlouisdavid.com" target="_blank">
                 <p>Book now</p>
@@ -33,198 +33,67 @@
                         &gt;
                     </li>
                     <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-                        <a itemprop="item" href="https://www.jeanlouisdavid.us/services"><span itemprop="name">Exclusive
-                                Services</span></a>
+                        <a itemprop="item" href="https://www.jeanlouisdavid.us/services/style-bar_t50/1"><span
+                                itemprop="name">Style Bar</span></a>
                         <meta itemprop="position" content="2">
                         &gt;
                     </li>
-                    <span class="current">Style Bar</span>
+                    <span class="current">Streetstyle: show off your dip-dye with Speed Curl</span>
                 </ol>
             </div>
         </div>
-    
-        <script>
-            var infoIcon = document.querySelectorAll('.salonSearchForm__info');
-            var popup = document.querySelectorAll('.salonSearchForm__popup');
-            var changeSalon = document.querySelector('.locator__on__list .changeSalon');
-            var windowWidth = window.innerWidth;
 
-            if (changeSalon) {
-                changeSalon.addEventListener('click', function() {
-                    document.querySelector('.locator-toggle').classList.remove('active');
-                    document.querySelector('.salon-search-toggle').classList.add('active');
-                });
-            }
 
-            if (windowWidth > 768) {
-                infoIcon.forEach(function(item) {
-                    item.addEventListener('mouseover', function() {
-                        popup.forEach(function(itemP) {
-                            itemP.style.opacity = 1;
-                        })
-                    })
-                    item.addEventListener('mouseout', function() {
-                        popup.forEach(function(itemP) {
-                            itemP.style.opacity = 0;
-                        })
-                    })
-                })
-            } else {
-                infoIcon.forEach(function(item) {
-                    item.addEventListener('click', function() {
-                        popup.forEach(function(itemP) {
-                            if (itemP.style.opacity == 1) {
-                                itemP.style.opacity = 0;
-                            } else {
-                                itemP.style.opacity = 1;
-                            }
-                        })
-                    })
-
-                });
-            }
-
-        </script>
-
-        <div class="one_service_page">
-            <div id="teaserShp">
-                <div class="wide80 lineHeight0">
+        <div class="wide78 lineHeight0 portrait clearfix hide-desc">
+            <div class="left-portrait clearfix">
+                <div class="offset-photo">
                     <div class="carusel">
-                        <img src="https://via.placeholder.com/1280x450"
-                            alt="Style Bar">
-                        <h1 class="oneServiceBlockTitle white">
-                            <span class="preTitle">Our Exclusive Services</span>Style Bar
-                        </h1>
+                        <img src="https://via.placeholder.com/630x945"
+                            alt="Streetstyle: show off your dip-dye with Speed Curl">
+                        <div class="text">Streetstyle: show off your dip-dye with Speed Curl</div>
                     </div>
                 </div>
             </div>
-            <div id="quoteBlock">
-                <div class="wide78">
-                    <div class="oneServiceBlock">
-                        <div class="quoteWrap">
-                            <div class="textWrap">
-                                <p><span>Perfectly straight hair, incredibly bouncy curls, or a pretty braided look – fall
-                                        for the trendy styles at Jean Louis David!<o:p></o:p></span></p>
-                                <p><span>For every occasion you can now style your hair for the price of a cocktail, whether
-                                        it's a romantic date, a night out with the girls, a wedding, or job interview. All
-                                        you need is 15 minutes and 15€ and you'll have a new style without any shampoo or
-                                        scissors! It's really that simple.<br><br>
-                                        <o:p></o:p>
-                                    </span></p>
-                                <p><span>Pop into your Jean Louis David salon with clean hair, choose your look, and we'll
-                                        get you styled up in just three steps:<br><br>
-                                        <o:p></o:p>
-                                    </span></p>
-                                <p><span>1. A touch of<span class="apple-converted-space">
-                                        </span><strong><span>FRESHNESS</span></strong><span class="apple-converted-space">
-                                        </span>with dry shampoo to add texture to the hair and assure the style's upkeep
-                                        <o:p></o:p></span></p>
-                                <p><span>2.<span class="apple-converted-space"> </span><strong><span>A
-                                                PROFESSIONAL</span></strong><span class="apple-converted-space">
-                                        </span>touch with the styling tool adapted to your choice in order to quickly create
-                                        your style and get the look you're after<o:p></o:p></span></p>
-                                <p><span>3.<span class="apple-converted-space"> </span><strong><span>A
-                                                FINISHING</span></strong><span class="apple-converted-space"> </span>touch
-                                        with the Urban Style line of products: shine, mold, support...that's it, you're all
-                                        ready to go!<br><br>
-                                        <o:p></o:p>
-                                    </span></p>
-                                <p><span>With the Bar à Styles, you can say goodbye to bad hair days!<o:p></o:p></span></p>
-                            </div>
-                        </div>
+            <div class="right-portrait clearfix" style="min-height: 1004px;">
+                <div class="colCenter">
+                    <div class="blockWhite paddingCenter">
+                        <div class="tagDate">Style Bar</div>
+                        <h1>Streetstyle: show off your dip-dye with Speed Curl</h1>
+                        <div class="content tracking-click-parent" data-tracking-category="Contenu">
+                           
+
+                            Healthy, beautiful hair doesn’t just happen overnight…you need to use the correct products to
+                            care for your locks. To really show off your new dip-dye color, why not take advantage of the
+                            new Jean Louis David Speed Curl service to create natural-looking
+                            waves?<br>&nbsp;<br><strong>Her hair.&nbsp;</strong>A short bob with straightened roots and wavy
+                            mid-lengths and ends. Our streetstyle wearer today certainly knows how to style her dip-dye
+                            look, as the waves give her locks gorgeous movement and body. She went to her salon and asked
+                            for the speed-curl-style-me-curly
+                                Speed Curl service</a>. The stylist started curling from the mid-lengths downwards to create
+                            an effortless contrast and accentuate the color at the ends. We’re loving this summer-inspired
+                            hairstyle.<br>&nbsp;<br><strong>Her look.&nbsp;</strong>Her look is distinctly bohemian. She’s
+                            opted for summery, floaty pieces to keep her cool. A lightweight pastel-blue sweater and a long
+                            pink maxi-skirt make up the basis of her outfit. A black leather bag sits on her shoulder whilst
+                            wedges finish off her look. Oversized beige sunglasses act as the final
+                            touch.<br>&nbsp;<br><strong>Tip of the day.&nbsp;</strong>The 
+                                
+                                Style Bar,
+                            available within all Jean Louis David salons, enables you to get fantastic looking curls,
+                            but also many other different looks.
+                                 Speed Brush</a> will give you the
+                            perfect blow-dry whilst 
+                                Speed Up-Do</a>&nbsp;creates on-trend
+                            braids. Head to your salon to try out the service for yourself!<br>&nbsp;<br><i>© Pixelformula ©
+                                Jean Louis David</i><br>&nbsp;
+                        </div>     
                     </div>
-                  
                 </div>
-            </div>
+            </div>     
         </div>
-
-        <div id="quoteBlock">
-            <div class="wide78 servicesShp">
-                <div class="padding clearfix">
-                  
-        <div class="servicesBlock service">
-                <div class="imgWrap">
-                                    <img src="https://via.placeholder.com/370x226" alt="Style Bar">
-                                <div class="buttonWrap">
-                        <a class="buttonGold" href="/service/moreDetail" "="">Style Bar</a>
-                    </div>
-                </div>
-                <div class="text">
-                    <p></p><p><span>Perfectly straight hair, incredibly bouncy curls, or a pretty braided look – fall for the trendy styles at Jean Louis David!<o:p></o:p></span></p>
-        <p><span>For every occasion you can now style your hair for the price of a cocktail, whether it's a romantic date, a night out with the girls, a wedding, or job interview. All you need is 15 minutes and 15€ and you'll have a new style without any shampoo or scissors! It's really that simple.<br><br><o:p></o:p></span></p>
-        <p><span>Pop into your Jean Louis David salon with clean hair, choose your look, and we'll get you styled up in just three steps:<br><br><o:p></o:p></span></p>
-        <p><span>1. A touch of<span class="apple-converted-space"> </span><strong><span>FRESHNESS</span></strong><span class="apple-converted-space"> </span>with dry shampoo to add texture to the hair and assure the style's upkeep<o:p></o:p></span></p>
-        <p><span>2.<span class="apple-converted-space"> </span><strong><span>A PROFESSIONAL</span></strong><span class="apple-converted-space"> </span>touch with the styling tool adapted to your choice in order to quickly create your style and get the look you're after<o:p></o:p></span></p>
-        <p><span>3.<span class="apple-converted-space"> </span><strong><span>A FINISHING</span></strong><span class="apple-converted-space"> </span>touch with the Urban Style line of products: shine, mold, support...that's it, you're all ready to go!<br><br><o:p></o:p></span></p>
-        <p><span>With the Bar à Styles, you can say goodbye to bad hair days!<o:p></o:p></span></p><p></p>
-                </div>
-            </div>
-                <div class="servicesBlock service">
-                <div class="imgWrap">
-                                    <img src="https://via.placeholder.com/370x226" alt="Lightening">
-                                <div class="buttonWrap">
-                        <a class="buttonGold" href="/service/moreDetail" "="">Lightening</a>
-                    </div>
-                </div>
-                <div class="text">
-                    <p></p><p>Lightening doesn't necessary mean blond! Brown, red, or sandy, discover the numerous Jean Louis David partial coloring techniques and lighten up your hair for sun washed style!</p><p></p>
-                </div>
-            </div>
-            <div class="servicesBlock service">
-                <div class="imgWrap">
-                                    <img src="https://via.placeholder.com/370x226" alt="Colour">
-                                <div class="buttonWrap">
-                        <a class="buttonGold" href="/service/moreDetail" "="">Colour</a>
-                    </div>
-                </div>
-                <div class="text">
-                    <p></p><p>Energy and shine! For sparkling color all year round with radiant shine and depth, try out our capillary top coats at the salon!</p><p></p>
-                </div>
-            </div>
-            <div class="servicesBlock service">
-                <div class="imgWrap">
-                                    <img src="https://via.placeholder.com/370x226" alt="Care Ritual">
-                                <div class="buttonWrap">
-                        <a class="buttonGold" href="/service/moreDetail" "="">Care Ritual</a>
-                    </div>
-                </div>
-                <div class="text">
-                    <p></p><p>A day and night cream applied daily to your face and body, a lip balm, oil for your cuticles...just like your skin, your hair needs care, attention, and nutrition! That's why Jean Louis David created Rituels, made from exclusive original formulas, to answer to the needs of everyone. Repair, volume, color, shine, smoothening – choose one that's right for you!</p><p></p>
-                </div>
-            </div>
-            <div class="servicesBlock service">
-                <div class="imgWrap">
-                                    <img src="https://via.placeholder.com/370x226" alt="Form">
-                                <div class="buttonWrap">
-                        <a class="buttonGold" href="/service/moreDetail" "="">Form</a>
-                    </div>
-                </div>
-                <div class="text">
-                    <p></p><p>Whether you like your hair wavy, with pretty back-to-the-beach style curls, or smooth and brushed out, only one thing really matters: well-behaved hair and form! Hurry in to discover our styling services to highlight all your looks for an entire month!</p><p></p>
-                </div>
-            </div>
-            <div class="servicesBlock service">
-                <div class="imgWrap">
-                                    <img src="https://via.placeholder.com/370x226" alt="Form">
-                                <div class="buttonWrap">
-                        <a class="buttonGold" href="/service/moreDetail" "="">Form</a>
-                    </div>
-                </div>
-                <div class="text">
-                    <p></p><p>Whether you like your hair wavy, with pretty back-to-the-beach style curls, or smooth and brushed out, only one thing really matters: well-behaved hair and form! Hurry in to discover our styling services to highlight all your looks for an entire month!</p><p></p>
-                </div>
-            </div>
-                </div>
-            </div>
-        </div>
-        <script>
-            WB.utils.serviceScrollbarInit();
-
-        </script>
-
         <div class="previewShp">
             <div class="wide78">
-                <div class="mainPadding">
+                <div class="mainPadding tracking-click-parent" data-tracking-category="Les plus lus"
+                    data-tracking-action="Clic articles">
                     <h2>Most read articles</h2>
 
                     <div class="articlePreviewBlock">
@@ -273,8 +142,8 @@
                         </div>
                         <div class="articlePreview" data-tracking-label="How to hold your style without hairspray">
                             <a class=" articleThumbnail _hrl"
-                                href="/mostRead/index">
-                                 <img
+                                href="/mostRead/index"> 
+                                <img
                                     src="https://via.placeholder.com/85x85"
                                     alt="How to hold your style without hairspray">
                                 <div class="border">
@@ -301,7 +170,7 @@
                                     src="https://via.placeholder.com/85x85"
                                     alt="What are the differences between streaks and highlights?">
                                 <div class="border">
-                                    <img src="/mostRead/index/border_line.png">
+                                    <img src="/img/border_line.png">
                                 </div>
                             </a>
                             <div class="articleDescription">
@@ -319,7 +188,7 @@
                         <div class="articlePreview"
                             data-tracking-label="Fine hair: which colours can make it look thicker?">
                             <a class=" articleThumbnail _hrl"
-                                href="/mostRead/index"> 
+                                href="/mostRead/index">
                                 <img
                                     src="https://via.placeholder.com/85x85"
                                     alt="Fine hair: which colours can make it look thicker?">
@@ -340,8 +209,8 @@
                             </div>
                         </div>
                         <div class="articlePreview" data-tracking-label="How to use styling mousse">
-                            <a class=" articleThumbnail _hrl" href="/mostRead/index">
-                                 <img
+                            <a class=" articleThumbnail _hrl" href="/mostRead/index"> 
+                                <img
                                     src="https://via.placeholder.com/85x85"
                                     alt="How to use styling mousse">
                                 <div class="border">
@@ -363,7 +232,7 @@
                         <div class="articlePreview"
                             data-tracking-label="How can I keep my hair looking wavy after braiding?">
                             <a class=" articleThumbnail _hrl"
-                                href="/mostRead/index">
+                                href="/mostRead/index"> 
                                 <img
                                     src="https://via.placeholder.com/85x85"
                                     alt="How can I keep my hair looking wavy after braiding?">
@@ -385,8 +254,8 @@
                         </div>
                         <div class="articlePreview" data-tracking-label="Trimming your baby's hair for the first time">
                             <a class=" articleThumbnail _hrl"
-                                href="/mostRead/index">
-                                 <img
+                                href="/mostRead/index"> 
+                                <img
                                     src="https://via.placeholder.com/85x85"
                                     alt="Trimming your baby's hair for the first time">
                                 <div class="border">
@@ -408,8 +277,8 @@
                         <div class="articlePreview"
                             data-tracking-label="Why your fringe gets greasy quickly and how to avoid it">
                             <a class=" articleThumbnail _hrl"
-                                href="/mostRead/index">
-                                 <img
+                                href="/mostRead/index"> 
+                                <img
                                     src="https://via.placeholder.com/85x85"
                                     alt="Why your fringe gets greasy quickly and how to avoid it">
                                 <div class="border">
@@ -428,12 +297,18 @@
                                 </p>
                             </div>
                         </div>
-                        
                     </div>
                 </div>
             </div>
         </div>
 
+        <script>
+            WB.stats.countView('article', 6658);
+            WB.utils.resizePortrait();
+            WB.utils.sharePortraitScroll();
+            WB.utils.colLeftPortraitScroll();
+            WB.utils.articleGeolocate(true);
 
+        </script>
 
-    @endsection
+@endsection
