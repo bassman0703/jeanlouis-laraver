@@ -93,7 +93,8 @@
 
                 <div class="productlines_list_roots_2">
                     <div class="productline_root odd">
-                        <a class=" _hrl" href="/products/range/urban-care_g10/1"> <a href="/products/range/urban-care_g10/1"
+                        <a class=" _hrl" href="/product/home">
+                             <a href="/product/home"
                                 class="title">Urban Care</a>
                             <div class="visuel_wrapper">
                                 <img src="https://via.placeholder.com/570x238"
@@ -103,11 +104,11 @@
                                 Watching women entering Jean Louis David salons each year, the idea was to offer a range of
                                 products that was different to all the others... one...
                             </div>
-                            <div class="more_link"><span>Discover</span> the range</div>
+                            <a href="/product/home"><div class="more_link"><span>Discover</span> the range</div></a>
                         </a> </div>
                     <div class="productline_root even">
-                        <a class=" _hrl" href="/products/range/urban-style_g20/1"> <a
-                                href="/products/range/urban-style_g20/1" class="title">Urban Style</a>
+                        <a class=" _hrl" href="/product/home"> <a
+                                href="/product/home" class="title">Urban Style</a>
                             <div class="visuel_wrapper">
                                 <img src="https://via.placeholder.com/570x238"
                                     class="visuel">
@@ -116,7 +117,7 @@
                                 A perfect hairstyle 24/7? It's possible! Jean Louis David's Urban Style line was designed
                                 especially with city hair in mind. Practical, fast, and...
                             </div>
-                            <div class="more_link"><span>Discover</span> the range</div>
+                            <a href="/product/home"><div class="more_link"><span>Discover</span> the range</div></a>
                         </a> </div>
                 </div>
             </div>

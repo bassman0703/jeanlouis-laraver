@@ -118,3 +118,7 @@ Route::get('/service/moreDetail', function () {
 Route::get('/price/index', function () {
     return view('client.price.index');
 });
+
+Route::get('/contact/index', function () {
+    return view('client.contact.index');
+});

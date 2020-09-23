@@ -13192,7 +13192,7 @@ body:not(.home) .articleBlock2 .table {
 }
 
 .contactContent .contactPageHead .pageDescription {
-    background-image: url(web/skins/images/service-striped.png);
+    background-image: url(/img/service-striped.png);
     background-color: #fff;
     width: 100%;
     padding: 30px 3% 30px 30px;
@@ -13291,12 +13291,12 @@ body:not(.home) .articleBlock2 .table {
     font-family: PlayfairDisplay;
     color: #1b1c20;
     font-size: 24px;
-    background: url(web/skins/images/contact-li.png) no-repeat left 7px;
+    background: url(/img/contact-li.png) no-repeat left 7px;
     padding: 10px 0 7px 45px
 }
 
 .contactContent .contactForm #form_types ul li.active {
-    background: url(web/skins/images/contact-li-active.png) no-repeat left 7px
+    background: url(/img/contact-li-active.png) no-repeat left 7px
 }
 
 .contactContent .contactForm #form_types ul li:hover {

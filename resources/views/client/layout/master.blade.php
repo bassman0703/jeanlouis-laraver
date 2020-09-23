@@ -565,123 +565,43 @@
                                     </div>
                                     <div class="subMenuCol">
                                         <div class="standardTitle">
-                                            <a href="/services/style-bar_t50/1"
+                                            <a href="/product/detail"
                                                data-tracking-label="Style Bar"
                                                class="tracking-click">Style Bar</a>
                                         </div>
-                                        <ul>
-                                            <li>
-                                                <a href="/services/style-bar_t50/1#speedbrush"
-                                                   data-tracking-label="Speed Brush"
-                                                   class="tracking-click">Speed Brush</a>
-                                            </li>
-                                            <li>
-                                                <a href="/services/style-bar_t50/1#speedcurl"
-                                                   data-tracking-label="Speed Curl"
-                                                   class="tracking-click">Speed Curl</a>
-                                            </li>
-                                            <li>
-                                                <a href="/services/style-bar_t50/1#speedupdo"
-                                                   data-tracking-label="Speed Up-Do"
-                                                   class="tracking-click">Speed Up-Do</a>
-                                            </li>
-                                        </ul>
+                                       
                                     </div>
                                     <div class="subMenuCol">
                                         <div class="standardTitle">
-                                            <a href="/services/lightening_t54/1"
+                                            <a href="/product/detail"
                                                data-tracking-label="Lightening"
                                                class="tracking-click">Lightening</a>
                                         </div>
-                                        <ul>
-                                            <li>
-                                                <a href="/services/lightening_t54/1#contrast"
-                                                   data-tracking-label="Contrast"
-                                                   class="tracking-click">Contrast</a>
-                                            </li>
-                                            <li>
-                                                <a href="/services/lightening_t54/1#flashcream"
-                                                   data-tracking-label="Flash Cream"
-                                                   class="tracking-click">Flash Cream</a>
-                                            </li>
-                                            <li>
-                                                <a href="/services/lightening_t54/1#sunlight"
-                                                   data-tracking-label="Sunlight"
-                                                   class="tracking-click">Sunlight</a>
-                                            </li>
-                                            <li>
-                                                <a href="/services/lightening_t54/1#tiedye"
-                                                   data-tracking-label="Tie &amp; Dye"
-                                                   class="tracking-click">Tie & Dye</a>
-                                            </li>
-                                        </ul>
+                                        
                                     </div>
                                     <div class="subMenuCol">
                                         <div class="standardTitle">
-                                            <a href="/services/colour_t59/1"
+                                            <a href="/product/detail"
                                                data-tracking-label="Colour"
                                                class="tracking-click">Colour</a>
                                         </div>
-                                        <ul>
-                                            <li>
-                                                <a href="/services/colour_t59/1#gloss"
-                                                   data-tracking-label="Gloss"
-                                                   class="tracking-click">Gloss</a>
-                                            </li>
-                                            <li>
-                                                <a href="/services/colour_t59/1#2in1"
-                                                   data-tracking-label="2 en 1"
-                                                   class="tracking-click">2 en 1</a>
-                                            </li>
-                                        </ul>
+                                       
                                     </div>
                                     <div class="subMenuCol">
                                         <div class="standardTitle">
-                                            <a href="/services/care-ritual_t62/1"
+                                            <a href="/product/detail"
                                                data-tracking-label="Care Ritual"
                                                class="tracking-click">Care Ritual</a>
                                         </div>
-                                        <ul>
-                                            <li>
-                                                <a href="/services/care-ritual_t62/1#keratintherapy"
-                                                   data-tracking-label="Keratin Therapy"
-                                                   class="tracking-click">Keratin Therapy</a>
-                                            </li>
-                                            <li>
-                                                <a href="/services/care-ritual_t62/1#colortherapy"
-                                                   data-tracking-label="Go color"
-                                                   class="tracking-click">Go color</a>
-                                            </li>
-                                            <li>
-                                                <a href="/services/care-ritual_t62/1#oiltherapy"
-                                                   data-tracking-label="Oil Therapy"
-                                                   class="tracking-click">Oil Therapy</a>
-                                            </li>
-                                            <li>
-                                                <a href="/services/care-ritual_t62/1#volumetherapy"
-                                                   data-tracking-label="Volume Therapy"
-                                                   class="tracking-click">Volume Therapy</a>
-                                            </li>
-                                        </ul>
+                                        
                                     </div>
                                     <div class="subMenuCol">
                                         <div class="standardTitle">
-                                            <a href="/services/form_t67/1"
+                                            <a href="/product/detail"
                                                data-tracking-label="Form"
                                                class="tracking-click">Form</a>
                                         </div>
-                                        <ul>
-                                            <li>
-                                                <a href="/services/form_t67/1#swaves"
-                                                   data-tracking-label="S-Waves"
-                                                   class="tracking-click">S-Waves</a>
-                                            </li>
-                                            <li>
-                                                <a href="/services/form_t67/1#relax"
-                                                   data-tracking-label="Relax"
-                                                   class="tracking-click">Relax</a>
-                                            </li>
-                                        </ul>
+                                       
                                     </div>
                                 </div>
                                 
@@ -763,7 +683,7 @@
                         </li>
                         <li>
                             <i class="fa icon-arrow"></i> 
-                            <a href="/tag/hair-colouring_t23/1"
+                            <a href="/contact/index"
                                  class="navItem tracking-click"
                                  data-tracking-label="Hair Colouring">Contact</a>
                             <div class="bridge"></div>
