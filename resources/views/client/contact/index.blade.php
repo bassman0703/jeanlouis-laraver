@@ -626,7 +626,7 @@
                         <div class="articlePreviewBlock">
                             <div class="articlePreview" data-tracking-label="How to hold your style without hairspray">
                                 <a class=" articleThumbnail _hrl"
-                                    href="/article/how-to-hold-your-style-without-hairspray_a5133/1">
+                                    href="/mostRead/index">
                                      <img
                                         src="https://via.placeholder.com/85x85"
                                         alt="How to hold your style without hairspray">
@@ -646,9 +646,9 @@
                                 </div>
                             </div>
                             <div class="articlePreview" data-tracking-label="How to use styling mousse">
-                                <a class=" articleThumbnail _hrl" href="/article/how-to-use-styling-mousse_a2433/1"> 
+                                <a class=" articleThumbnail _hrl" href="/mostRead/index"> 
                                     <img
-                                        src="https://via.placeholder.com/85x85
+                                        src="https://via.placeholder.com/85x85"
                                         alt="How to use styling mousse">
                                     <div class="border">
                                         <img src="/img/border_line.png">
@@ -660,7 +660,7 @@
                                     </p>
 
                                     <p class="articleTitle">
-                                        <a href="/article/how-to-use-styling-mousse_a2433/1">
+                                        <a href="/mostRead/index">
                                             <span>How to use styling mousse</span>
                                         </a>
                                     </p>
@@ -669,7 +669,7 @@
                             <div class="articlePreview"
                                 data-tracking-label="How can I keep my hair looking wavy after braiding?">
                                 <a class=" articleThumbnail _hrl"
-                                    href="/article/how-can-i-keep-my-hair-looking-wavy-after-braiding_a6628/1">
+                                    href="/mostRead/index">
                                      <img
                                         src="https://via.placeholder.com/85x85"
                                         alt="How can I keep my hair looking wavy after braiding?">
@@ -683,7 +683,7 @@
                                     </p>
 
                                     <p class="articleTitle">
-                                        <a href="/article/how-can-i-keep-my-hair-looking-wavy-after-braiding_a6628/1">
+                                        <a href="/mostRead/index">
                                             <span>How can I keep my hair looking wavy after braiding?</span>
                                         </a>
                                     </p>
@@ -691,7 +691,7 @@
                             </div>
                             <div class="articlePreview" data-tracking-label="Trimming your baby's hair for the first time">
                                 <a class=" articleThumbnail _hrl"
-                                    href="/article/trimming-your-baby-s-hair-for-the-first-time_a11254/1">
+                                    href="/mostRead/index">
                                      <img
                                         src="https://via.placeholder.com/85x85"
                                         alt="Trimming your baby's hair for the first time">
@@ -705,7 +705,7 @@
                                     </p>
 
                                     <p class="articleTitle">
-                                        <a href="/article/trimming-your-baby-s-hair-for-the-first-time_a11254/1">
+                                        <a href="/mostRead/index">
                                             <span>Trimming your baby's hair for the first time</span>
                                         </a>
                                     </p>
@@ -714,7 +714,7 @@
                             <div class="articlePreview"
                                 data-tracking-label="Why your fringe gets greasy quickly and how to avoid it">
                                 <a class=" articleThumbnail _hrl"
-                                    href="/article/why-your-fringe-gets-greasy-quickly-and-how-to-avoid-it_a2963/1"> 
+                                    href="/mostRead/index"> 
                                     <img
                                         src="https://via.placeholder.com/85x85"
                                         alt="Why your fringe gets greasy quickly and how to avoid it">
@@ -728,7 +728,7 @@
                                     </p>
 
                                     <p class="articleTitle">
-                                        <a href="/article/why-your-fringe-gets-greasy-quickly-and-how-to-avoid-it_a2963/1">
+                                        <a href="/mostRead/index">
                                             <span>Why your fringe gets greasy quickly and how to avoid it</span>
                                         </a>
                                     </p>
@@ -736,7 +736,7 @@
                             </div>
                             <div class="articlePreview" data-tracking-label="Which hairstyles will make me look taller?">
                                 <a class=" articleThumbnail _hrl"
-                                    href="/article/which-hairstyles-will-make-me-look-taller_a5323/1">
+                                    href="/mostRead/index">
                                      <img
                                         src="https://via.placeholder.com/85x85"
                                         alt="Which hairstyles will make me look taller?">
@@ -750,14 +750,14 @@
                                     </p>
 
                                     <p class="articleTitle">
-                                        <a href="/article/which-hairstyles-will-make-me-look-taller_a5323/1">
+                                        <a href="/mostRead/index">
                                             <span>Which hairstyles will make me look taller?</span>
                                         </a>
                                     </p>
                                 </div>
                             </div>
                             <div class="articlePreview" data-tracking-label="Hairspray: true and false">
-                                <a class=" articleThumbnail _hrl" href="/article/hairspray-true-and-false_a3913/1"> 
+                                <a class=" articleThumbnail _hrl" href="/mostRead/index"> 
                                     <img
                                         src="https://via.placeholder.com/85x85"
                                         alt="Hairspray: true and false">
@@ -771,7 +771,7 @@
                                     </p>
 
                                     <p class="articleTitle">
-                                        <a href="/article/hairspray-true-and-false_a3913/1">
+                                        <a href="/mostRead/index">
                                             <span>Hairspray: true and false</span>
                                         </a>
                                     </p>
@@ -780,7 +780,7 @@
                             <div class="articlePreview"
                                 data-tracking-label="Cutting your hair at full moon, a good idea or a popular myth?">
                                 <a class=" articleThumbnail _hrl"
-                                    href="/article/cutting-your-hair-at-full-moon-a-good-idea-or-a-popular-myth_a9487/1">
+                                    href="/mostRead/index">
                                     <img src="https://via.placeholder.com/85x85"
                                         alt="Cutting your hair at full moon, a good idea or a popular myth?">
                                     <div class="border">
@@ -794,14 +794,14 @@
 
                                     <p class="articleTitle">
                                         <a
-                                            href="/article/cutting-your-hair-at-full-moon-a-good-idea-or-a-popular-myth_a9487/1">
+                                            href="/mostRead/index">
                                             <span>Cutting your hair at full moon, a good idea or a popular...</span>
                                         </a>
                                     </p>
                                 </div>
                             </div>
                             <div class="articlePreview" data-tracking-label="Curtain bangs: should you get them?">
-                                <a class=" articleThumbnail _hrl" href="/article/curtain-bangs-should-you-get-them_a9191/1">
+                                <a class=" articleThumbnail _hrl" href="/mostRead/index">
                                     <img src="https://via.placeholder.com/85x85"
                                         alt="Curtain bangs: should you get them?">
                                     <div class="border"><img src="/img/border_line.png"></div>
@@ -812,7 +812,7 @@
                                     </p>
 
                                     <p class="articleTitle">
-                                        <a href="/article/curtain-bangs-should-you-get-them_a9191/1">
+                                        <a href="/mostRead/index">
                                             <span>Curtain bangs: should you get them?</span>
                                         </a>
                                     </p>
